@@ -342,6 +342,7 @@
 
 ## Python
 
+* [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 * [rqalpha](https://github.com/ricequant/rqalpha) - RQalpha: A Python Algorithmic Trading Engine with BackTest, Portfolio Calculation and Free Day Data
 * [HillaryEmailAnalysis](https://github.com/multiangle/HillaryEmailAnalysis) - 
