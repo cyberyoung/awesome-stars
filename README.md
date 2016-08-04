@@ -285,11 +285,10 @@
 
 ## Others
 
-* [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 * [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
 * [docs](https://github.com/huihoo/docs) - 开放文档资源索引
-* [awesome-github](https://github.com/AntBranch/awesome-github) - 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+* [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 * [SunLn-F2E-Bookmarks](https://github.com/SunLn/SunLn-F2E-Bookmarks) - SunLn的前端收藏夹，值得分享、学习的前端网站
 * [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 * [osinstall](https://github.com/idcos/osinstall) - Document
@@ -411,6 +410,7 @@
 
 ## Shell
 
+* [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 * [vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
 * [openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - OpenWrt shadowsocks路由器智能、自动翻墙教程
 * [keymaps](https://github.com/jondot/keymaps) - 
