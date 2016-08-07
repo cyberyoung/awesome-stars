@@ -151,6 +151,7 @@
 
 ## Go
 
+* [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 * [seq](https://github.com/teh-cmc/seq) - [Go] seq - a gentle overview of the common ways to tackle the problem of distributed sequential IDs.
 * [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 * [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
@@ -192,6 +193,7 @@
 
 ## Java
 
+* [DouBanTop250](https://github.com/kevinhqf/DouBanTop250) - 
 * [PermissionDemo](https://github.com/CankingApp/PermissionDemo) - Android M(6.0)　权限申请研究
 * [Lealone](https://github.com/lealone/Lealone) - 兼具RDBMS、NoSQL优点的下一代NewSQL分布式关系数据库
 * [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
@@ -422,6 +424,7 @@
 
 ## Swift
 
+* [Postal](https://github.com/snipsco/Postal) - A swift framework for working with emails
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) - 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
