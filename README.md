@@ -49,14 +49,16 @@
 
 ## C
 
+* [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
 * [Dior](https://github.com/luohaha/Dior) - A kind of Lisp
 * [lisp0](https://github.com/bhuztez/lisp0) - a bare minimum remake of origin LISP
 * [c4](https://github.com/rswier/c4) - C in four functions
 * [kernel-module-fun](https://github.com/jvns/kernel-module-fun) - Some fun things you can do with kernel modules (all "bad ideas")
+* [nuklear](https://github.com/vurtun/nuklear) - A small ANSI C gui library
 * [libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
 * [lushan](https://github.com/wbrecom/lushan) - 
 * [xhyve](https://github.com/mist64/xhyve) - xhyve, a lightweight OS X virtualization solution
-* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
+* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 * [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 * [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) - 搜狐公司强大的数据库中间件
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本github已于14年6月基本停止更新，完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售！
@@ -92,6 +94,7 @@
 
 ## C++
 
+* [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
 * [xoc](https://github.com/stevenknown/xoc) - XOC is a compiler infrastructure that provides multi-level operations, flexibility, and the capability of representing almost all popular languages. There are two level IR representations used throughout all phases of the compilation.
 * [wangle](https://github.com/facebook/wangle) - Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 * [rtbkit](https://github.com/rtbkit/rtbkit) - RTBkit is a real-time bidder framework designed for use on advertising exchanges such as the Rubicon Project, Nexage, App Nexus, The Google Ad Exchange and others.
@@ -156,7 +159,7 @@
 * [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 * [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
 * [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
-* [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxy applications to bypass certain network restrictions.
+* [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 * [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol
 * [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
@@ -193,6 +196,7 @@
 
 ## Java
 
+* [Leek](https://github.com/wosyingjun/Leek) - Leek—基于( Flume+KafKa+JStorm+Esper+MySQL )
 * [DouBanTop250](https://github.com/kevinhqf/DouBanTop250) - 
 * [PermissionDemo](https://github.com/CankingApp/PermissionDemo) - Android M(6.0)　权限申请研究
 * [Lealone](https://github.com/lealone/Lealone) - 兼具RDBMS、NoSQL优点的下一代NewSQL分布式关系数据库
@@ -224,12 +228,13 @@
 
 ## JavaScript
 
-* [FKP-REST](https://github.com/webkixi/FKP-REST) - FKPJS full stack frame，front-end kind power
+* [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
+* [ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
+* [FKP-REST](https://github.com/webkixi/FKP-REST) - FKPJS full stack frame，front-end kepa，JS现在才应该是中小企业的互联网项目的最佳切入姿势
 * [devdocs-wrapper](https://github.com/yutaodou/devdocs-wrapper) - A simple wrapper for http://devdocs.io with Electron
 * [karait](https://github.com/bcoe/karait) - A ridiculously simple queuing system, with clients in various languages, built on top of MongoDB.
 * [MyGitStar](https://github.com/Sidong/MyGitStar) - MyGitStar，管理你的Github Star！
 * [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-* [nuklear](https://github.com/vurtun/nuklear) - A small ANSI C gui toolkit
 * [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 * [vue](https://github.com/vuejs/vue) - Simple yet powerful library for building modern web interfaces.
 * [GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
@@ -264,6 +269,7 @@
 
 ## Jupyter Notebook
 
+* [pythondocument](https://github.com/ictar/pythondocument) - translate python documents to Chinese for convenient reference 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
 * [caffe2](https://github.com/caffe2/caffe2) - This is currently an experimental refactoring of Caffe.
 
 ## Lua
@@ -303,7 +309,7 @@
 * [css-reference-issues](https://github.com/codrops/css-reference-issues) - A repo for collecting issues and suggestions for the Codrops CSS Reference http://tympanus.net/codrops/css_reference/
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 * [APTnotes](https://github.com/kbandla/APTnotes) - Various public documents, whitepapers and articles about APT campaigns
-* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - 自己总结的iOS、mac开源项目及库，持续更新。。。。
+* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
 * [innodb_diagrams](https://github.com/jeremycole/innodb_diagrams) - Diagrams for InnoDB data structures and behaviors
 * [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 * [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub
@@ -343,6 +349,7 @@
 
 ## Python
 
+* [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 * [rqalpha](https://github.com/ricequant/rqalpha) - RQalpha: A Python Algorithmic Trading Engine with BackTest, Portfolio Calculation and Free Day Data
@@ -424,6 +431,7 @@
 
 ## Swift
 
+* [LearnSwift](https://github.com/cjiong/LearnSwift) - One hundred days, fifty projects.
 * [Postal](https://github.com/snipsco/Postal) - A swift framework for working with emails
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) - 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
