@@ -199,7 +199,6 @@
 
 ## Java
 
-* [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 * [Leek](https://github.com/wosyingjun/Leek) - A distributed real-time stock picking system base on flume,kafka,jstorm,esper,and mysql
 * [DouBanTop250](https://github.com/kevinhqf/DouBanTop250) - 
 * [PermissionDemo](https://github.com/CankingApp/PermissionDemo) - Android M(6.0)　权限申请研究
@@ -402,6 +401,7 @@
 
 ## Ruby
 
+* [rollbar-rails-demo](https://github.com/rollbar/rollbar-rails-demo) - Rails app for the Rollbar demo project.
 * [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
 * [rustboot](https://github.com/charliesome/rustboot) - A tiny 32 bit kernel written in Rust
 * [docker-console](https://github.com/zhuangbiaowei/docker-console) - 
