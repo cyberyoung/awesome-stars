@@ -94,6 +94,7 @@
 
 ## C++
 
+* [phxsql](https://github.com/tencent-wechat/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 * [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
 * [xoc](https://github.com/stevenknown/xoc) - XOC is a compiler infrastructure that provides multi-level operations, flexibility, and the capability of representing almost all popular languages. There are two level IR representations used throughout all phases of the compilation.
 * [wangle](https://github.com/facebook/wangle) - Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
@@ -120,6 +121,7 @@
 
 ## CSS
 
+* [mobi.css](https://github.com/xcatliu/mobi.css) - A lightweight, flexible css framework that focus on mobile.
 * [Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
 * [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
 * [wiki](https://github.com/hurley25/wiki) - OS开发收集的资料
@@ -177,6 +179,7 @@
 
 ## HTML
 
+* [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
 * [blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
 * [Stock](https://github.com/jasonblog/Stock) - 
 * [gson](https://github.com/google/gson) - A Java serialization/deserialization library that can convert Java Objects into JSON and back.
@@ -196,7 +199,8 @@
 
 ## Java
 
-* [Leek](https://github.com/wosyingjun/Leek) - Leek—基于( Flume+KafKa+JStorm+Esper+MySQL )
+* [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
+* [Leek](https://github.com/wosyingjun/Leek) - A distributed real-time stock picking system base on flume,kafka,jstorm,esper,and mysql
 * [DouBanTop250](https://github.com/kevinhqf/DouBanTop250) - 
 * [PermissionDemo](https://github.com/CankingApp/PermissionDemo) - Android M(6.0)　权限申请研究
 * [Lealone](https://github.com/lealone/Lealone) - 兼具RDBMS、NoSQL优点的下一代NewSQL分布式关系数据库
@@ -228,7 +232,7 @@
 
 ## JavaScript
 
-* [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
+* [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
 * [ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
 * [FKP-REST](https://github.com/webkixi/FKP-REST) - FKPJS full stack frame，front-end kepa，JS现在才应该是中小企业的互联网项目的最佳切入姿势
 * [devdocs-wrapper](https://github.com/yutaodou/devdocs-wrapper) - A simple wrapper for http://devdocs.io with Electron
@@ -293,6 +297,8 @@
 
 ## Others
 
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+* [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 * [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
 * [docs](https://github.com/huihoo/docs) - 开放文档资源索引
@@ -385,7 +391,7 @@
 * [moist](https://github.com/farcepest/moist) - Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases
 * [sentry](https://github.com/meredith620/sentry) - monitor machine resources like cpu,disk I/O,mem,ethernet... and display the charts
 * [selfspy](https://github.com/gurgeh/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-* [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 * [PyPXE](https://github.com/psychomario/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 * [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 * [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
@@ -415,6 +421,7 @@
 
 ## Scheme
 
+* [lambda-calculus](https://github.com/luohaha/lambda-calculus) - lambda calculus interpreter
 * [ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
 
 ## Shell
