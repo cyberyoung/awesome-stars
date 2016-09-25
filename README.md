@@ -54,7 +54,7 @@
 * [lisp0](https://github.com/bhuztez/lisp0) - a bare minimum remake of origin LISP
 * [c4](https://github.com/rswier/c4) - C in four functions
 * [kernel-module-fun](https://github.com/jvns/kernel-module-fun) - Some fun things you can do with kernel modules (all "bad ideas")
-* [nuklear](https://github.com/vurtun/nuklear) - A small ANSI C gui library
+* [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 * [libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
 * [lushan](https://github.com/wbrecom/lushan) - 
 * [xhyve](https://github.com/mist64/xhyve) - xhyve, a lightweight OS X virtualization solution
@@ -94,6 +94,7 @@
 
 ## C++
 
+* [woboq_codebrowser](https://github.com/woboq/woboq_codebrowser) - Woboq CodeBrowser
 * [phxsql](https://github.com/tencent-wechat/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 * [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
 * [xoc](https://github.com/stevenknown/xoc) - XOC is a compiler infrastructure that provides multi-level operations, flexibility, and the capability of representing almost all popular languages. There are two level IR representations used throughout all phases of the compilation.
@@ -121,6 +122,7 @@
 
 ## CSS
 
+* [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) - A collection of documentation about the most quirky parts of the JavaScript language.
 * [mobi.css](https://github.com/xcatliu/mobi.css) - A lightweight, flexible css framework that focus on mobile.
 * [Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
 * [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
@@ -130,6 +132,7 @@
 
 ## Clojure
 
+* [scheme.clj](https://github.com/jiacai2050/scheme.clj) - Yet another scheme dialect written in Clojure
 * [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 * [clojure-netty](https://github.com/cymen/clojure-netty) - Basic example of using netty with Clojure
 * [aleph](https://github.com/ztellman/aleph) - asynchronous communication for clojure
@@ -169,7 +172,7 @@
 * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [cockroach](https://github.com/cockroachdb/cockroach) - A Scalable, Survivable, Strongly-Consistent SQL Database
-* [vitess](https://github.com/youtube/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+* [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 * [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 * [joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 * [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -179,7 +182,6 @@
 
 ## HTML
 
-* [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
 * [blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
 * [Stock](https://github.com/jasonblog/Stock) - 
 * [gson](https://github.com/google/gson) - A Java serialization/deserialization library that can convert Java Objects into JSON and back.
@@ -231,7 +233,9 @@
 
 ## JavaScript
 
+* [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 * [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
+* [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
 * [ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
 * [FKP-REST](https://github.com/webkixi/FKP-REST) - FKPJS full stack frame，front-end kepa，JS现在才应该是中小企业的互联网项目的最佳切入姿势
 * [devdocs-wrapper](https://github.com/yutaodou/devdocs-wrapper) - A simple wrapper for http://devdocs.io with Electron
@@ -296,9 +300,10 @@
 
 ## Others
 
+* [papers](https://github.com/Charles0429/papers) - 读论文的总结
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 * [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
-* [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
+* [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.
 * [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
 * [docs](https://github.com/huihoo/docs) - 开放文档资源索引
 * [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
@@ -342,6 +347,7 @@
 
 ## PHP
 
+* [tcpproxy](https://github.com/jonnywang/tcpproxy) - 基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
 * [fis](https://github.com/fex-team/fis) - Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3
 * [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 * [LazyREST](https://github.com/easychen/LazyREST) - 可通过Web配置的REST Server，采用GPLV2授权
@@ -390,7 +396,7 @@
 * [moist](https://github.com/farcepest/moist) - Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases
 * [sentry](https://github.com/meredith620/sentry) - monitor machine resources like cpu,disk I/O,mem,ethernet... and display the charts
 * [selfspy](https://github.com/gurgeh/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. New: follow https://twitter.com/clihttp for tips and updates.
 * [PyPXE](https://github.com/psychomario/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 * [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 * [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
