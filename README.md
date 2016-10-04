@@ -61,7 +61,7 @@
 * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 * [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 * [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) - 搜狐公司强大的数据库中间件
-* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本github已于14年6月基本停止更新，完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售！
+* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售！
 * [TDH_Socket](https://github.com/alibaba/TDH_Socket) - TDH_Socket_Plugin_for_MySQL is a MySQL plugin which like HandlerSocket.
 * [mjolnir](https://github.com/sdegutis/mjolnir) - Lightweight automation and productivity app for OS X
 * [aerospike-server](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
@@ -94,6 +94,7 @@
 
 ## C++
 
+* [miniblink49](https://github.com/weolar/miniblink49) - 
 * [woboq_codebrowser](https://github.com/woboq/woboq_codebrowser) - Woboq CodeBrowser
 * [phxsql](https://github.com/tencent-wechat/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 * [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
@@ -132,7 +133,7 @@
 
 ## Clojure
 
-* [scheme.clj](https://github.com/jiacai2050/scheme.clj) - Yet another scheme dialect written in Clojure
+* [scheme.clj](https://github.com/jiacai2050/scheme.clj) - Yet another scheme dialect written in Clojure and ClojureScript
 * [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 * [clojure-netty](https://github.com/cymen/clojure-netty) - Basic example of using netty with Clojure
 * [aleph](https://github.com/ztellman/aleph) - asynchronous communication for clojure
@@ -159,6 +160,7 @@
 
 ## Go
 
+* [yue](https://github.com/chrislonng/yue) - simple demo for nex(https://github.com/chrislonng/nex)
 * [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 * [seq](https://github.com/teh-cmc/seq) - [Go] seq - a gentle overview of the common ways to tackle the problem of distributed sequential IDs.
 * [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
@@ -233,6 +235,7 @@
 
 ## JavaScript
 
+* [lambda-view](https://github.com/Jianru-Lin/lambda-view) - 复杂 JavaScript 源码阅读分析工具
 * [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 * [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
 * [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
@@ -300,6 +303,7 @@
 
 ## Others
 
+* [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 * [papers](https://github.com/Charles0429/papers) - 读论文的总结
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 * [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
