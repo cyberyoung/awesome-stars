@@ -303,6 +303,8 @@
 
 ## Others
 
+* [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
+* [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
 * [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 * [papers](https://github.com/Charles0429/papers) - 读论文的总结
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
