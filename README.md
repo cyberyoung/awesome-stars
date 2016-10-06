@@ -303,6 +303,7 @@
 
 ## Others
 
+* [sublime-text](https://github.com/jikeytang/sublime-text) - sublime-text
 * [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
 * [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
 * [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
