@@ -94,6 +94,7 @@
 
 ## C++
 
+* [CppCon2014](https://github.com/CppCon/CppCon2014) - Speaker materials from CppCon 2014
 * [miniblink49](https://github.com/weolar/miniblink49) - 
 * [woboq_codebrowser](https://github.com/woboq/woboq_codebrowser) - Woboq CodeBrowser
 * [phxsql](https://github.com/tencent-wechat/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
