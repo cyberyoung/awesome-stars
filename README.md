@@ -49,6 +49,7 @@
 
 ## C
 
+* [386bsd](https://github.com/386bsd/386bsd) - 386BSD
 * [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
 * [Dior](https://github.com/luohaha/Dior) - A kind of Lisp
 * [lisp0](https://github.com/bhuztez/lisp0) - a bare minimum remake of origin LISP
@@ -204,10 +205,11 @@
 
 ## Java
 
+* [jlitespider](https://github.com/luohaha/jlitespider) - A lite distributed Java spider framework :-)
 * [Leek](https://github.com/wosyingjun/Leek) - A distributed real-time stock picking system base on flume,kafka,jstorm,esper,and mysql
 * [DouBanTop250](https://github.com/kevinhqf/DouBanTop250) - 
 * [PermissionDemo](https://github.com/CankingApp/PermissionDemo) - Android M(6.0)　权限申请研究
-* [Lealone](https://github.com/lealone/Lealone) - 兼具RDBMS、NoSQL优点的下一代NewSQL分布式关系数据库
+* [Lealone](https://github.com/lealone/Lealone) - 兼具RDBMS、NoSQL优点的下一代NewSQL异步化数据库
 * [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 * [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 * [heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
@@ -304,6 +306,7 @@
 
 ## Others
 
+* [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 * [sublime-text](https://github.com/jikeytang/sublime-text) - sublime-text
 * [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
 * [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
@@ -327,7 +330,6 @@
 * [css-reference-issues](https://github.com/codrops/css-reference-issues) - A repo for collecting issues and suggestions for the Codrops CSS Reference http://tympanus.net/codrops/css_reference/
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 * [APTnotes](https://github.com/kbandla/APTnotes) - Various public documents, whitepapers and articles about APT campaigns
-* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
 * [innodb_diagrams](https://github.com/jeremycole/innodb_diagrams) - Diagrams for InnoDB data structures and behaviors
 * [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 * [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub
@@ -371,7 +373,7 @@
 * [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
-* [rqalpha](https://github.com/ricequant/rqalpha) - RQalpha: A Python Algorithmic Trading Engine with BackTest, Portfolio Calculation and Free Day Data
+* [rqalpha](https://github.com/ricequant/rqalpha) - RQalpha: A Python Algorithmic Trading Engine with BackTest, Portfolio Calculation and Free Day Bar Data
 * [HillaryEmailAnalysis](https://github.com/multiangle/HillaryEmailAnalysis) - 
 * [training-guides](https://github.com/openstack/training-guides) - Community created, open source training guides for OpenStack.
 * [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.
@@ -404,7 +406,7 @@
 * [moist](https://github.com/farcepest/moist) - Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases
 * [sentry](https://github.com/meredith620/sentry) - monitor machine resources like cpu,disk I/O,mem,ethernet... and display the charts
 * [selfspy](https://github.com/gurgeh/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. New: follow https://twitter.com/clihttp for tips and updates.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
 * [PyPXE](https://github.com/psychomario/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 * [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 * [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
@@ -420,6 +422,7 @@
 * [rustboot](https://github.com/charliesome/rustboot) - A tiny 32 bit kernel written in Rust
 * [docker-console](https://github.com/zhuangbiaowei/docker-console) - 
 * [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
+* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
 * [org-ruby](https://github.com/bdewey/org-ruby) - This gem contains Ruby routines for parsing org-mode files. The most significant thing this library does today is convert org-mode files to HTML or textile.
 * [i2cssh](https://github.com/wouterdebie/i2cssh) - csshX like ssh tool for iTerm2
 * [lamernews](https://github.com/antirez/lamernews) - Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery
@@ -429,6 +432,7 @@
 
 ## Scala
 
+* [each](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to scalaz's monadic expressions
 * [shelldroid](https://github.com/wuhx/shelldroid) - Create Virtual Environment for your Android Apps
 * [Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
 * [kafka-manager](https://github.com/yahoo/kafka-manager) - A tool for managing Apache Kafka.
