@@ -103,7 +103,7 @@
 * [xoc](https://github.com/stevenknown/xoc) - XOC is a compiler infrastructure that provides multi-level operations, flexibility, and the capability of representing almost all popular languages. There are two level IR representations used throughout all phases of the compilation.
 * [wangle](https://github.com/facebook/wangle) - Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 * [rtbkit](https://github.com/rtbkit/rtbkit) - RTBkit is a real-time bidder framework designed for use on advertising exchanges such as the Rubicon Project, Nexage, App Nexus, The Google Ad Exchange and others.
-* [libgo](https://github.com/yyzybb537/libgo) - C++ coroutine library, CSP mode, likes golang
+* [libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11
 * [algorithm-training](https://github.com/xidui/algorithm-training) - 
 * [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * [CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
@@ -238,6 +238,7 @@
 
 ## JavaScript
 
+* [vuejs.org](https://github.com/vuefe/vuejs.org) - vuejs.org vue2.x 正式版中文翻译 (找小伙伴一同翻译 加群 427447379)
 * [lambda-view](https://github.com/Jianru-Lin/lambda-view) - 复杂 JavaScript 源码阅读分析工具
 * [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 * [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
@@ -306,9 +307,9 @@
 
 ## Others
 
+* [translations](https://github.com/oldratlee/translations) - :panda_face: Chinese translations for classic IT resources
 * [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 * [sublime-text](https://github.com/jikeytang/sublime-text) - sublime-text
-* [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
 * [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
 * [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 * [papers](https://github.com/Charles0429/papers) - 读论文的总结
@@ -444,6 +445,7 @@
 
 ## Shell
 
+* [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
 * [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 * [vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
 * [openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - OpenWrt shadowsocks路由器智能、自动翻墙教程
