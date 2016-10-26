@@ -238,7 +238,10 @@
 
 ## JavaScript
 
-* [vuejs.org](https://github.com/vuefe/vuejs.org) - vuejs.org vue2.x 正式版中文翻译 (找小伙伴一同翻译 加群 427447379)
+* [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
+* [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
+* [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
+* [vuefe.github.io](https://github.com/vuefe/vuefe.github.io) - vuejs.org vue2.x 正式版中文翻译 (找小伙伴一同翻译 加群 427447379)
 * [lambda-view](https://github.com/Jianru-Lin/lambda-view) - 复杂 JavaScript 源码阅读分析工具
 * [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 * [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
@@ -307,6 +310,10 @@
 
 ## Others
 
+* [QConShanghai2016](https://github.com/QConChina/QConShanghai2016) - QCon上海2016幻灯片
+* [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
+* [servo](https://github.com/servo/servo) - The Servo Browser Engine
+* [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 * [translations](https://github.com/oldratlee/translations) - :panda_face: Chinese translations for classic IT resources
 * [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 * [sublime-text](https://github.com/jikeytang/sublime-text) - sublime-text
@@ -349,7 +356,6 @@
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 * [static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库稳定、快速的免费 CDN 服务
-* [servo](https://github.com/servo/servo) - The Servo Browser Engine
 * [ThunderLixianAssistant](https://github.com/ohsc/ThunderLixianAssistant) - 可以方便的把迅雷离线的下载地址导出到aria2/aria2-rpc/wget/IDM/Orbit，支持YAAW。
 * [rabbit-internals](https://github.com/videlalvaro/rabbit-internals) - Documentation about the RabbitMQ internals
 * [phpbook](https://github.com/walu/phpbook) - PHP扩展开发及内核应用
@@ -407,7 +413,7 @@
 * [moist](https://github.com/farcepest/moist) - Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases
 * [sentry](https://github.com/meredith620/sentry) - monitor machine resources like cpu,disk I/O,mem,ethernet... and display the charts
 * [selfspy](https://github.com/gurgeh/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
 * [PyPXE](https://github.com/psychomario/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 * [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 * [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
