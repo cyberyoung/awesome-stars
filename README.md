@@ -49,6 +49,7 @@
 
 ## C
 
+* [os](https://github.com/minoca/os) - Minoca operating system
 * [386bsd](https://github.com/386bsd/386bsd) - 386BSD
 * [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
 * [Dior](https://github.com/luohaha/Dior) - A kind of Lisp
@@ -96,7 +97,7 @@
 ## C++
 
 * [CppCon2014](https://github.com/CppCon/CppCon2014) - Speaker materials from CppCon 2014
-* [miniblink49](https://github.com/weolar/miniblink49) - 
+* [miniblink49](https://github.com/weolar/miniblink49) - 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 * [woboq_codebrowser](https://github.com/woboq/woboq_codebrowser) - Woboq CodeBrowser
 * [phxsql](https://github.com/tencent-wechat/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 * [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
@@ -218,7 +219,6 @@
 * [CronHub](https://github.com/sharpstill/CronHub) - CronHub is a better crontab, it is a web application which can monitor a large number of machine's crontab, and easy to manage it from web page
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android,Run any third-party apk without installation, modification or repackage
 * [Cassandra-Research](https://github.com/codefollower/Cassandra-Research) - Cassandra数据库源代码学习研究(包括代码注释、文档、用于代码分析的测试用例)
-* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [netty-learning](https://github.com/code4craft/netty-learning) - Netty learning.
 * [BloomFilterExample](https://github.com/vanjakom/BloomFilterExample) - Bloom filter implemented in Java with support for multiple hashers
 * [squirrel](https://github.com/hekailiang/squirrel) - squirrel-foundation is a State Machine library, which provided a lightweight, easy use, type safe and programmable state machine implementation for Java.
@@ -238,6 +238,7 @@
 
 ## JavaScript
 
+* [JRoll](https://github.com/chjtx/JRoll) - Smooth scrolling for the mobile web
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
 * [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
@@ -255,6 +256,7 @@
 * [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 * [vue](https://github.com/vuejs/vue) - Simple yet powerful library for building modern web interfaces.
 * [GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
+* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 * [hound](https://github.com/etsy/hound) - Lightning fast code searching made easy
 * [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
@@ -301,6 +303,7 @@
 
 ## Objective-C
 
+* [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter) - Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
 * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
 * [FLEX](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
 
@@ -310,6 +313,8 @@
 
 ## Others
 
+* [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+* [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 * [QConShanghai2016](https://github.com/QConChina/QConShanghai2016) - QCon上海2016幻灯片
 * [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 * [servo](https://github.com/servo/servo) - The Servo Browser Engine
