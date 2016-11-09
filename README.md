@@ -238,6 +238,7 @@
 
 ## JavaScript
 
+* [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》
 * [JRoll](https://github.com/chjtx/JRoll) - Smooth scrolling for the mobile web
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
