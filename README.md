@@ -37,6 +37,7 @@
     - [Swift](#swift)
     - [TeX](#tex)
     - [Thrift](#thrift)
+    - [TypeScript](#typescript)
     - [VimL](#viml)
 
 ## Assembly
@@ -315,6 +316,7 @@
 
 ## Others
 
+* [awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
 * [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
 * [react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 * [awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
@@ -487,6 +489,10 @@
 ## Thrift
 
 * [tchannel](https://github.com/uber/tchannel) - network multiplexing and framing protocol for RPC
+
+## TypeScript
+
+* [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 
 ## VimL
 
