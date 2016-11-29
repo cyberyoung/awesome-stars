@@ -240,6 +240,7 @@
 
 ## JavaScript
 
+* [react-cosmos](https://github.com/react-cosmos/react-cosmos) - DX tool for designing truly encapsulated React components
 * [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》
 * [JRoll](https://github.com/chjtx/JRoll) - Smooth scrolling for the mobile web
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
@@ -316,6 +317,7 @@
 
 ## Others
 
+* [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
 * [awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
 * [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
 * [react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
@@ -389,6 +391,7 @@
 
 ## Python
 
+* [easytrader](https://github.com/shidenggui/easytrader) - 提供券银河/银河客户端/广发/雪球的基金、股票自动程序化交易，支持跟踪 joinquant 模拟交易 和 实盘雪球组合, 量化交易组件
 * [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
@@ -425,7 +428,7 @@
 * [moist](https://github.com/farcepest/moist) - Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases
 * [sentry](https://github.com/meredith620/sentry) - monitor machine resources like cpu,disk I/O,mem,ethernet... and display the charts
 * [selfspy](https://github.com/gurgeh/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
+* [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client — user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
 * [PyPXE](https://github.com/psychomario/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 * [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 * [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
