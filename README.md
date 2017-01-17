@@ -39,6 +39,7 @@
     - [Thrift](#thrift)
     - [TypeScript](#typescript)
     - [VimL](#viml)
+    - [Vue](#vue)
 
 ## Assembly
 
@@ -50,6 +51,7 @@
 
 ## C
 
+* [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 * [os](https://github.com/minoca/os) - Minoca operating system
 * [386bsd](https://github.com/386bsd/386bsd) - 386BSD
 * [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
@@ -64,7 +66,7 @@
 * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 * [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 * [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) - 搜狐公司强大的数据库中间件
-* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售！
+* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 * [TDH_Socket](https://github.com/alibaba/TDH_Socket) - TDH_Socket_Plugin_for_MySQL is a MySQL plugin which like HandlerSocket.
 * [mjolnir](https://github.com/sdegutis/mjolnir) - Lightweight automation and productivity app for OS X
 * [aerospike-server](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
@@ -115,7 +117,6 @@
 * [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 * [ycmd](https://github.com/Valloric/ycmd) - A code-completion & code-comprehension server
 * [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
-* [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 * [shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox (Source Code)
 * [mapkeeper](https://github.com/m1ch1/mapkeeper) - Thrift based key-value store with various storage backends, including MySQL, Berkeley DB, and LevelDB.
 * [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
@@ -129,6 +130,7 @@
 
 * [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 * [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) - A collection of documentation about the most quirky parts of the JavaScript language.
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 * [mobi.css](https://github.com/xcatliu/mobi.css) - A lightweight, flexible css framework that focus on mobile.
 * [Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
 * [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
@@ -138,6 +140,10 @@
 
 ## Clojure
 
+* [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
+* [herbert](https://github.com/miner/herbert) - Clojure library defining a schema for edn values
+* [schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
+* [pomegranate](https://github.com/cemerick/pomegranate) - A sane Clojure API for Sonatype Aether + dynamic runtime modification of the classpath
 * [scheme.clj](https://github.com/jiacai2050/scheme.clj) - Yet another scheme dialect written in Clojure and ClojureScript
 * [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 * [clojure-netty](https://github.com/cymen/clojure-netty) - Basic example of using netty with Clojure
@@ -190,13 +196,14 @@
 ## HTML
 
 * [blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
-* [Stock](https://github.com/jasonblog/Stock) - 
 * [gson](https://github.com/google/gson) - A Java serialization/deserialization library that can convert Java Objects into JSON and back.
 * [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 * [storj.io](https://github.com/StorjOld/storj.io) - Landing page for the project.
 * [scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
 * [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+* [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 * [itoa-benchmark](https://github.com/miloyip/itoa-benchmark) - C++ integer-to-string conversion benchmark
+* [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 * [blog](https://github.com/hugozhu/blog) - Personal Blog for hugozhu.myalert.info
 * [groundwork](https://github.com/groundworkcss/groundwork) - Say hello to responsive design made easy.
 * [chosen](https://github.com/harvesthq/chosen) - Chosen is a library for making long, unwieldy select boxes more friendly.
@@ -208,6 +215,8 @@
 
 ## Java
 
+* [luke](https://github.com/DmitryKey/luke) - This is mavenised Luke: Lucene Toolbox Project
+* [diablo](https://github.com/ihaolin/diablo) - 分布式配置管理平台(Distributed Configuration Management Platform)
 * [jlitespider](https://github.com/luohaha/jlitespider) - A lite distributed Java spider framework :-)
 * [Leek](https://github.com/wosyingjun/Leek) - A distributed real-time stock picking system base on flume,kafka,jstorm,esper,and mysql
 * [DouBanTop250](https://github.com/kevinhqf/DouBanTop250) - 
@@ -241,24 +250,24 @@
 ## JavaScript
 
 * [react-cosmos](https://github.com/react-cosmos/react-cosmos) - DX tool for designing truly encapsulated React components
-* [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》
+* [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 * [JRoll](https://github.com/chjtx/JRoll) - Smooth scrolling for the mobile web
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
 * [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
-* [vuefe.github.io](https://github.com/vuefe/vuefe.github.io) - vuejs.org vue2.x 正式版中文翻译 (找小伙伴一同翻译 加群 427447379)
+* [vuefe.github.io](https://github.com/vuefe/vuefe.github.io) - vuejs.org vue2.x 正式版中文翻译
 * [lambda-view](https://github.com/Jianru-Lin/lambda-view) - 复杂 JavaScript 源码阅读分析工具
 * [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 * [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
 * [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
-* [ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
-* [FKP-REST](https://github.com/webkixi/FKP-REST) - FKPJS full stack frame，front-end kepa，JS现在才应该是中小企业的互联网项目的最佳切入姿势
+* [ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge :birthday::birthday::birthday::tada::tada::tada:
+* [FKP-REST](https://github.com/webkixi/FKP-REST) - full stack plus，FKP2更好，看这里 https://github.com/webkixi/fkp2
 * [devdocs-wrapper](https://github.com/yutaodou/devdocs-wrapper) - A simple wrapper for http://devdocs.io with Electron
 * [karait](https://github.com/bcoe/karait) - A ridiculously simple queuing system, with clients in various languages, built on top of MongoDB.
 * [MyGitStar](https://github.com/Sidong/MyGitStar) - MyGitStar，管理你的Github Star！
 * [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 * [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
-* [vue](https://github.com/vuejs/vue) - Simple yet powerful library for building modern web interfaces.
+* [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
@@ -267,7 +276,6 @@
 * [react-one-hour-email](https://github.com/petehunt/react-one-hour-email) - Build a very simple email client in an hour, step by step.
 * [fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
 * [Gilgamesh](https://github.com/sskyy/Gilgamesh) - A collection of modern javascript frameworks' extensions
-* [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 * [pm2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer
 * [iCreator](https://github.com/finscn/iCreator) - A command-line tool for creating all icons and launch-screen images of iOS App.
@@ -293,7 +301,7 @@
 ## Jupyter Notebook
 
 * [pythondocument](https://github.com/ictar/pythondocument) - translate python documents to Chinese for convenient reference 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
-* [caffe2](https://github.com/caffe2/caffe2) - This is currently an experimental refactoring of Caffe.
+* [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a cross-platform framework made with expression, speed, and modularity in mind.
 
 ## Lua
 
@@ -303,6 +311,7 @@
 
 ## Makefile
 
+* [Stock](https://github.com/jasonblog/Stock) - 
 * [Makefile-template](https://github.com/peddie/Makefile-template) - A generic makefile template
 
 ## Objective-C
@@ -317,6 +326,8 @@
 
 ## Others
 
+* [.tmux](https://github.com/gpakosz/.tmux) - Oh My Tmux! My pretty + versatile self-contained tmux configuration
+* [clojure-learning-notes](https://github.com/tonydeng/clojure-learning-notes) - Clojure学习笔记
 * [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
 * [awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
 * [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
@@ -334,7 +345,6 @@
 * [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
 * [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 * [papers](https://github.com/Charles0429/papers) - 读论文的总结
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 * [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.
 * [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
@@ -364,7 +374,6 @@
 * [Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 * [hao](https://github.com/memect/hao) - 好东西传送门
 * [OpenRTB](https://github.com/openrtb/OpenRTB) - Documentation and issue tracking for the OpenRTB Project
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [book](https://github.com/qyuhen/book) - 学习笔记
 * [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -378,6 +387,7 @@
 
 ## PHP
 
+* [bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(blueking cmdb)
 * [tcpproxy](https://github.com/jonnywang/tcpproxy) - 基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
 * [fis](https://github.com/fex-team/fis) - Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3
 * [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
@@ -391,7 +401,7 @@
 
 ## Python
 
-* [easytrader](https://github.com/shidenggui/easytrader) - 提供券银河/银河客户端/广发/雪球的基金、股票自动程序化交易，支持跟踪 joinquant 模拟交易 和 实盘雪球组合, 量化交易组件
+* [easytrader](https://github.com/shidenggui/easytrader) - 提供券银河/银河客户端/广发/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 * [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
@@ -428,12 +438,11 @@
 * [moist](https://github.com/farcepest/moist) - Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases
 * [sentry](https://github.com/meredith620/sentry) - monitor machine resources like cpu,disk I/O,mem,ethernet... and display the charts
 * [selfspy](https://github.com/gurgeh/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-* [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client — user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
+* [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
 * [PyPXE](https://github.com/psychomario/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 * [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 * [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
 * [LBForum](https://github.com/vicalloy/LBForum) - LBForum is a forum engine written in Python using Django
-* [murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library
 * [gitube](https://github.com/harryxu/gitube) - 
 * [sparkup](https://github.com/rstacruz/sparkup) - A parser for a condensed HTML format
 
@@ -446,14 +455,18 @@
 * [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 * [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
 * [org-ruby](https://github.com/bdewey/org-ruby) - This gem contains Ruby routines for parsing org-mode files. The most significant thing this library does today is convert org-mode files to HTML or textile.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [i2cssh](https://github.com/wouterdebie/i2cssh) - csshX like ssh tool for iTerm2
 * [lamernews](https://github.com/antirez/lamernews) - Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery
 * [yavaeye](https://github.com/yavaeye/yavaeye) - repo of yavaeye.com
 * [puma](https://github.com/puma/puma) - A ruby web server built for concurrency
 * [redis-dump](https://github.com/delano/redis-dump) - Backup and restore your Redis data to and from JSON. ALPHA WARNING!
+* [murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
 
 ## Scala
 
+* [colossus](https://github.com/tumblr/colossus) - I/O and Microservice library for Scala
+* [fpinscala](https://github.com/fpinscala/fpinscala) - Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
 * [each](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to scalaz's monadic expressions
 * [shelldroid](https://github.com/wuhx/shelldroid) - Create Virtual Environment for your Android Apps
 * [Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
@@ -466,6 +479,7 @@
 
 ## Shell
 
+* [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 * [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
 * [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 * [vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
@@ -486,6 +500,7 @@
 
 ## TeX
 
+* [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
 * [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 
@@ -495,10 +510,12 @@
 
 ## TypeScript
 
+* [black-screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
 * [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 
 ## VimL
 
+* [space-vim](https://github.com/liuchengxu/space-vim) - :seedling: An elegant vim distribution inspired by spacemacs
 * [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and agility.
 * [vimconf](https://github.com/buaazp/vimconf) - Personal vim conf and plugins for Mac and Linux.
 * [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
@@ -509,4 +526,8 @@
 * [CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
 * [vimmate](https://github.com/huacnlee/vimmate) - Custom vim like Textmate for Ruby on Rails development
 * [vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
+
+## Vue
+
+* [vue-cnode](https://github.com/lzxb/vue-cnode) - 基于vue2 + vue-router + vuex + ES6 + less + flex.css重写vue版cnode社区，使用webpack打包
 
