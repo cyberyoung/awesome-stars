@@ -48,10 +48,11 @@
 
 ## C
 
+* [LearningMasteringAlgorithms-C](https://github.com/yourtion/LearningMasteringAlgorithms-C) - Mastering Algorithms with C 《算法精解：C语言描述》源码及Xcode工程、Linux工程
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 * [os](https://github.com/minoca/os) - Minoca operating system
 * [386bsd](https://github.com/386bsd/386bsd) - 386BSD
-* [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
+* [libraries](https://github.com/gozfree/libraries) - Lightweight libraries, wrapper and extension of POSIX
 * [Dior](https://github.com/luohaha/Dior) - A kind of Lisp
 * [lisp0](https://github.com/bhuztez/lisp0) - a bare minimum remake of origin LISP
 * [c4](https://github.com/rswier/c4) - C in four functions
@@ -60,6 +61,7 @@
 * [libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
 * [lushan](https://github.com/wbrecom/lushan) - 
 * [xhyve](https://github.com/mist64/xhyve) - xhyve, a lightweight OS X virtualization solution
+* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 * [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 * [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) - 搜狐公司强大的数据库中间件
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
@@ -110,7 +112,7 @@
 * [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * [CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
-* [EasyPR](https://github.com/liuruoze/EasyPR) - An open source project for chinese plate recognition. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !
+* [EasyPR](https://github.com/liuruoze/EasyPR) - An open source project for Chinese plate recognition in unconstrained situation. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !
 * [kids](https://github.com/zhihu/kids) - Kids Is Data Stream
 * [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 * [ycmd](https://github.com/Valloric/ycmd) - A code-completion & code-comprehension server
@@ -118,7 +120,6 @@
 * [shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox (Source Code)
 * [mapkeeper](https://github.com/m1ch1/mapkeeper) - Thrift based key-value store with various storage backends, including MySQL, Berkeley DB, and LevelDB.
 * [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
-* [BGCC](https://github.com/BaiduCC/BGCC) - 百度自主研发的跨平台、多语言、面向对象与服务的轻量级高性能RPC框架
 * [qfs](https://github.com/quantcast/qfs) - Quantcast File System
 * [mysql](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter
 * [WebGL](https://github.com/sonyxperiadev/WebGL) - WebGL for Android Browser
@@ -126,9 +127,10 @@
 
 ## CSS
 
+* [home](https://github.com/rime/home) - Rime::Home is the starting point for people to learn about Rime
 * [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 * [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) - A collection of documentation about the most quirky parts of the JavaScript language.
-* [mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, flexible css framework that focus on mobile.
+* [mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first css framework
 * [Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
 * [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
 * [wiki](https://github.com/hurley25/wiki) - OS开发收集的资料
@@ -137,6 +139,7 @@
 
 ## Clojure
 
+* [lein-git-deps](https://github.com/tobyhede/lein-git-deps) - git dependencies for leiningen
 * [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
 * [herbert](https://github.com/miner/herbert) - Clojure library defining a schema for edn values
 * [schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
@@ -150,7 +153,6 @@
 
 ## CoffeeScript
 
-* [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 * [knowledge](https://github.com/ecomfe/knowledge) - Front-end knowledge hierarchy
 
 ## Emacs Lisp
@@ -168,12 +170,13 @@
 
 ## Go
 
+* [badger](https://github.com/dgraph-io/badger) - Fastest key-value store in Go.
 * [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 * [yue](https://github.com/chrislonng/yue) - simple demo for nex(https://github.com/chrislonng/nex)
 * [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 * [seq](https://github.com/teh-cmc/seq) - [Go] seq - a gentle overview of the common ways to tackle the problem of distributed sequential IDs.
 * [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
-* [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
+* [consul](https://github.com/hashicorp/consul) - Service Discovery and Configuration Made Easy
 * [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 * [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 * [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol
@@ -182,7 +185,7 @@
 * [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-* [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the scalable, survivable, strongly-consistent SQL database
+* [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native SQL database.
 * [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 * [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 * [joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
@@ -193,8 +196,11 @@
 
 ## HTML
 
+* [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 * [blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
-* [gson](https://github.com/google/gson) - A Java serialization/deserialization library that can convert Java Objects into JSON and back.
+* [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
+* [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 * [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 * [storj.io](https://github.com/StorjOld/storj.io) - Landing page for the project.
 * [scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
@@ -236,7 +242,7 @@
 * [staxon](https://github.com/beckchr/staxon) - JSON via StAX
 * [SimianArmy](https://github.com/Netflix/SimianArmy) - Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 * [jessica](https://github.com/wangscu/jessica) - jessica is a real time pure ram index fork from lucene-2312
-* [Dempsy](https://github.com/Dempsy/Dempsy) - Distributed Elastic Message Processing System
+* [dempsy](https://github.com/Dempsy/dempsy) - Distributed Elastic Message Processing System
 * [sqlautoreview](https://github.com/taobao/sqlautoreview) - automatic review database dml sql(select,insert,update,delete),build create index script for every SQL statment,and merge all create index script with exist indexes on these tables.
 * [trevni](https://github.com/cutting/trevni) - a column file format
 * [beatles](https://github.com/cenwenchu/beatles) - 中小规模即时流数据分析集群
@@ -247,7 +253,8 @@
 
 ## JavaScript
 
-* [omi](https://github.com/AlloyTeam/omi) - Open and modern framework for building user interfaces-开放现代的Web组件化框架。
+* [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
+* [omi](https://github.com/AlloyTeam/omi) - Open and modern framework for building user interfaces - 开放现代的Web组件化框架
 * [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - The Firefox Accounts authentication server.
 * [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
 * [redux-little-router](https://github.com/FormidableLabs/redux-little-router) - A tiny router for Redux that lets the URL do the talking.
@@ -259,7 +266,7 @@
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
 * [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
-* [vuefe.github.io](https://github.com/vuefe/vuefe.github.io) - vuejs.org vue2.x 中文翻译
+* [vuejs.org](https://github.com/vuefe/vuejs.org) - vuejs.org vue2.x 中文翻译
 * [lambda-view](https://github.com/Jianru-Lin/lambda-view) - A New Tool for Reading JavaScript Code in 2017
 * [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 * [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
@@ -270,11 +277,12 @@
 * [karait](https://github.com/bcoe/karait) - A ridiculously simple queuing system, with clients in various languages, built on top of MongoDB.
 * [MyGitStar](https://github.com/Sidong/MyGitStar) - MyGitStar，管理你的Github Star！
 * [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+* [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 * [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 * [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
-* [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
+* [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 * [hound](https://github.com/etsy/hound) - Lightning fast code searching made easy
 * [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [react-one-hour-email](https://github.com/petehunt/react-one-hour-email) - Build a very simple email client in an hour, step by step.
@@ -304,7 +312,7 @@
 
 ## Jupyter Notebook
 
-* [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a cross-platform framework made with expression, speed, and modularity in mind.
+* [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 
 ## Lua
 
@@ -320,20 +328,21 @@
 ## Objective-C
 
 * [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter) - Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
-* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
 * [FLEX](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
 
 ## Objective-J
 
-* [source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans
+* [source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 源ノ角ゴシック | 본고딕
 
 ## Others
 
+* [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
+* [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 * [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 * [awesome-windows-exploitation](https://github.com/enddo/awesome-windows-exploitation) - A curated list of awesome Windows Exploitation resources, and shiny things. Inspired by awesom
-* [.tmux](https://github.com/gpakosz/.tmux) - Oh My Tmux! My pretty + versatile self-contained tmux configuration (in other words the best tmux configuration)
+* [.tmux](https://github.com/gpakosz/.tmux) - Oh My Tmux! My pretty + versatile self-contained tmux configuration (imho the best tmux configuration)
 * [clojure-learning-notes](https://github.com/tonydeng/clojure-learning-notes) - Clojure学习笔记
 * [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
 * [awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
@@ -355,7 +364,7 @@
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 * [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 * [python-doc](https://github.com/ictar/python-doc) - translate python documents to Chinese for convenient reference 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
-* [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.
+* [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 * [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
 * [docs](https://github.com/huihoo/docs) - 开放文档资源索引
 * [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
@@ -366,11 +375,12 @@
 * [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 * [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 * [CCUG](https://github.com/codefollower/CCUG) - 中国Cassandra数据库用户组(China Cassandra User Group)
-* [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 * [ipfs](https://github.com/ipfs/ipfs) - IPFS - The Permanent Web
 * [css-reference-issues](https://github.com/codrops/css-reference-issues) - A repo for collecting issues and suggestions for the Codrops CSS Reference http://tympanus.net/codrops/css_reference/
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 * [APTnotes](https://github.com/kbandla/APTnotes) - Various public documents, whitepapers and articles about APT campaigns
+* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
 * [innodb_diagrams](https://github.com/jeremycole/innodb_diagrams) - Diagrams for InnoDB data structures and behaviors
 * [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 * [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub
@@ -396,12 +406,13 @@
 
 ## PHP
 
+* [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 * [bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(blueking cmdb)
 * [tcpproxy](https://github.com/jonnywang/tcpproxy) - 基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
 * [fis](https://github.com/fex-team/fis) - Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3
 * [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 * [LazyREST](https://github.com/easychen/LazyREST) - 可通过Web配置的REST Server，采用GPLV2授权
-* [TeamToy](https://github.com/easychen/TeamToy) - 企业协同办公工具TeamToy2（多人TODO版）官方Git源，每次版本发布时从SAE同步。
+* [TeamToy](https://github.com/easychen/TeamToy) - 企业协同办公工具TeamToy2（多人TODO版）官方Git源
 
 ## Perl
 
@@ -410,6 +421,7 @@
 
 ## Python
 
+* [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anythings. The Terminator
 * [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 * [github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券银河/银河客户端/广发/湘财证券/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
@@ -429,7 +441,7 @@
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 * [nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
 * [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-* [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box -
+* [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
 * [Dshell](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework.
 * [snake](https://github.com/amoffat/snake) - Full Python Scripting in Vim
 * [DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
@@ -459,13 +471,12 @@
 
 ## Ruby
 
+* [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [our-boxen](https://github.com/boxen/our-boxen) - Copy me for your team.
 * [rollbar-rails-demo](https://github.com/rollbar/rollbar-rails-demo) - Rails app for the Rollbar demo project.
-* [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
 * [rustboot](https://github.com/charliesome/rustboot) - A tiny 32 bit kernel written in Rust
 * [docker-console](https://github.com/zhuangbiaowei/docker-console) - 
 * [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
-* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
 * [org-ruby](https://github.com/bdewey/org-ruby) - This gem contains Ruby routines for parsing org-mode files. The most significant thing this library does today is convert org-mode files to HTML or textile.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [i2cssh](https://github.com/wouterdebie/i2cssh) - csshX like ssh tool for iTerm2
@@ -477,7 +488,7 @@
 
 ## Rust
 
-* [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
+* [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 
 ## Scala
 
@@ -497,6 +508,7 @@
 ## Shell
 
 * [docker-gotgit](https://github.com/jiangxin/docker-gotgit) - Dockerfile for gotgit/gotgit
+* [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
 * [jenv](https://github.com/gcuisinier/jenv) - Manage your Java environment
 * [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 * [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
@@ -508,7 +520,7 @@
 * [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 * [scripts](https://github.com/chunshengster/scripts) - some little scripts like python bash perl etc.
 * [benchmarks](https://github.com/yesodweb/benchmarks) - Collection of various Haskell web benchmarks
-* [z](https://github.com/rupa/z) - z is the new j, yo
+* [z](https://github.com/rupa/z) - z - jump around
 
 ## Swift
 
@@ -529,12 +541,13 @@
 
 ## TypeScript
 
-* [black-screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
+* [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 * [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 
 ## Vim script
 
-* [space-vim](https://github.com/liuchengxu/space-vim) - :seedling: An elegant vim distribution inspired by spacemacs
+* [dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.(*nix开发环境一键配置）😀
+* [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 * [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 * [janus](https://github.com/carlhuda/janus) - Vim distribution
@@ -551,5 +564,5 @@
 
 ## Vue
 
-* [vue-cnode](https://github.com/lzxb/vue-cnode) - 基于vue2 + vue-router + vuex + ES6 + less + flex.css重写vue版cnode社区，使用webpack2打包
+* [vue-cnode](https://github.com/lzxb/vue-cnode) - 基于vue2 + vue-router + vuet + ES6 + less + flex.css重写vue版cnode社区，使用webpack2打包
 
