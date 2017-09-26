@@ -98,6 +98,7 @@
 
 ## C++
 
+* [llvm-tutorial-cn](https://github.com/liancheng/llvm-tutorial-cn) - Simplified Chinese translation for the LLVM Tutorial
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 * [mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 * [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
@@ -143,6 +144,7 @@
 
 ## Clojure
 
+* [clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API for Clojure
 * [lein-git-deps](https://github.com/tobyhede/lein-git-deps) - git dependencies for leiningen
 * [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
 * [herbert](https://github.com/miner/herbert) - Clojure library defining a schema for edn values
@@ -174,6 +176,8 @@
 
 ## Go
 
+* [asm-cli](https://github.com/cch123/asm-cli) - Interactive shell of assembly language(X86/X64) based on unicorn and rasm2
+* [goflyway](https://github.com/coyove/goflyway) - HTTP tunnel in Go
 * [delay-queue](https://github.com/ouqiang/delay-queue) - 延迟队列
 * [logkit](https://github.com/qiniu/logkit) - 
 * [badger](https://github.com/dgraph-io/badger) - Fast key-value store in Go.
@@ -205,6 +209,7 @@
 * [restc](https://github.com/ElemeFE/restc) - A server-side middleware to visualize REST requests.
 * [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
+* [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
 * [blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
 * [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
 * [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -227,6 +232,7 @@
 
 ## Java
 
+* [lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。
 * [luke](https://github.com/DmitryKey/luke) - This is mavenised Luke: Lucene Toolbox Project
 * [diablo](https://github.com/ihaolin/diablo) - 分布式配置管理平台(Distributed Configuration Management Platform)
 * [jlitespider](https://github.com/luohaha/jlitespider) - A lite distributed Java spider framework :-)
@@ -261,6 +267,8 @@
 
 ## JavaScript
 
+* [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+* [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 * [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 * [databank](https://github.com/blockchain-university/databank) - 区块链技术相关的论文、文档
 * [TagUI](https://github.com/tebelorg/TagUI) - General purpose tool for automating web interactions
@@ -282,7 +290,6 @@
 * [lambda-view](https://github.com/Jianru-Lin/lambda-view) - A New Tool for Reading JavaScript Code in 2017
 * [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 * [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
-* [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
 * [ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
 * [FKP-REST](https://github.com/webkixi/FKP-REST) - full stack plus，FKP2更好，看这里 https://github.com/webkixi/fkp2
 * [devdocs-wrapper](https://github.com/yutaodou/devdocs-wrapper) - A simple wrapper for http://devdocs.io with Electron
@@ -323,7 +330,8 @@
 
 ## Jupyter Notebook
 
-* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
+* [datacamp-community-tutorials](https://github.com/datacamp/datacamp-community-tutorials) - Tutorials for DataCamp (www.datacamp.com)
+* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - Concise TensorFlow Examples for Beginners with Latest APIs
 * [Deep_learning_coursera_Andrew-Ng](https://github.com/hejujie/Deep_learning_coursera_Andrew-Ng) - The deep learning course of Andrew Ng in coursera
 * [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 * [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
@@ -342,6 +350,7 @@
 
 ## Objective-C
 
+* [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开
 * [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter) - Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
 * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
 * [FLEX](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
@@ -352,6 +361,8 @@
 
 ## Others
 
+* [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
 * [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 * [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
@@ -423,7 +434,7 @@
 
 * [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 * [bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(blueking cmdb)
-* [tcpproxy](https://github.com/jonnywang/tcpproxy) - 基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
+* [tcpproxy](https://github.com/jonnywang/tcpproxy) - (不再维护)!!!!!!!  基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
 * [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 * [fis](https://github.com/fex-team/fis) - Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3
 * [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
@@ -437,13 +448,14 @@
 
 ## Python
 
+* [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets.
 * [DataScience-And-MachineLearning-Handbook-For-Coders](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders) - 程序猿的数据科学与机器学习实战手册
 * [jd_spider](https://github.com/samrayleung/jd_spider) - 两只蠢萌京东的分布式爬虫.
 * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 * [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anythings. The Terminator
 * [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 * [github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
-* [easytrader](https://github.com/shidenggui/easytrader) - 提供券银河客户端/广发/湘财证券/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
+* [easytrader](https://github.com/shidenggui/easytrader) - 提供券银河／华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 * [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [rqalpha](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities
@@ -547,6 +559,7 @@
 
 ## Swift
 
+* [Swift-MMP](https://github.com/johnlui/Swift-MMP) - Stream Material-design Music Player written by Swift for iOS. 使用 Swift 语言编写的 Material Design 风格的 iOS 流媒体音乐播放器，简称 MMP。
 * [LearnSwift](https://github.com/cjiong/LearnSwift) - One hundred days, fifty projects.
 * [Postal](https://github.com/snipsco/Postal) - A swift framework for working with emails
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) - 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn
@@ -569,7 +582,7 @@
 
 ## Vim script
 
-* [dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.(*nix开发环境一键配置）😀
+* [dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 * [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 * [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
