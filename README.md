@@ -13,6 +13,7 @@
     - [CSS](#css)
     - [Clojure](#clojure)
     - [CoffeeScript](#coffeescript)
+    - [Coq](#coq)
     - [Emacs Lisp](#emacs lisp)
     - [Erlang](#erlang)
     - [Go](#go)
@@ -27,9 +28,9 @@
     - [Objective-J](#objective-j)
     - [Others](#others)
     - [PHP](#php)
+    - [PLpgSQL](#plpgsql)
     - [Perl](#perl)
     - [Python](#python)
-    - [Racket](#racket)
     - [Ruby](#ruby)
     - [Rust](#rust)
     - [Scala](#scala)
@@ -63,7 +64,6 @@
 * [lushan](https://github.com/wbrecom/lushan) - 
 * [xhyve](https://github.com/mist64/xhyve) - xhyve, a lightweight OS X virtualization solution
 * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
-* [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 * [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) - 搜狐公司强大的数据库中间件
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 * [TDH_Socket](https://github.com/alibaba/TDH_Socket) - TDH_Socket_Plugin_for_MySQL is a MySQL plugin which like HandlerSocket.
@@ -71,7 +71,7 @@
 * [aerospike-server](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
 * [Concurrency-Kit](https://github.com/kev009/Concurrency-Kit) - Concurrency primitives and lock-less data structures
 * [lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
-* [rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source real-time operating system for embedded devices from China.
+* [rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system from China.
 * [cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
 * [VimProject](https://github.com/ghosert/VimProject) - All about my vim projects
 * [parson](https://github.com/kgabis/parson) - Lightweight JSON library written in C.
@@ -116,7 +116,9 @@
 * [algorithm-training](https://github.com/xidui/algorithm-training) - 
 * [scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * [CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
+* [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
+* [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 * [EasyPR](https://github.com/liuruoze/EasyPR) - An open source project for Chinese plate recognition in unconstrained situation. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !
 * [kids](https://github.com/zhihu/kids) - Kids Is Data Stream
 * [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
@@ -144,6 +146,7 @@
 
 ## Clojure
 
+* [jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 * [clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API for Clojure
 * [lein-git-deps](https://github.com/tobyhede/lein-git-deps) - git dependencies for leiningen
 * [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
@@ -160,6 +163,10 @@
 ## CoffeeScript
 
 * [knowledge](https://github.com/ecomfe/knowledge) - Front-end knowledge hierarchy
+
+## Coq
+
+* [Cosette](https://github.com/uwdb/Cosette) - Cosette is an automated SQL solver powered by Coq and Rosette.
 
 ## Emacs Lisp
 
@@ -180,7 +187,7 @@
 * [goflyway](https://github.com/coyove/goflyway) - HTTP tunnel in Go
 * [delay-queue](https://github.com/ouqiang/delay-queue) - 延迟队列
 * [logkit](https://github.com/qiniu/logkit) - 
-* [badger](https://github.com/dgraph-io/badger) - Fast key-value store in Go.
+* [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 * [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 * [yue](https://github.com/lonnng/yue) - simple demo for nex(https://github.com/lonnng/nex)
 * [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
@@ -189,7 +196,7 @@
 * [consul](https://github.com/hashicorp/consul) - Service Discovery and Configuration Made Easy
 * [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 * [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-* [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol
+* [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed HTAP database compatible with MySQL protocol
 * [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 * [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -278,7 +285,6 @@
 * [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - The Firefox Accounts authentication server.
 * [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
 * [redux-little-router](https://github.com/FormidableLabs/redux-little-router) - A tiny router for Redux that lets the URL do the talking.
-* [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 * [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 * [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
@@ -331,10 +337,8 @@
 ## Jupyter Notebook
 
 * [datacamp-community-tutorials](https://github.com/datacamp/datacamp-community-tutorials) - Tutorials for DataCamp (www.datacamp.com)
-* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - Concise TensorFlow Examples for Beginners with Latest APIs
-* [Deep_learning_coursera_Andrew-Ng](https://github.com/hejujie/Deep_learning_coursera_Andrew-Ng) - The deep learning course of Andrew Ng in coursera
+* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 * [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
-* [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 
 ## Lua
 
@@ -363,6 +367,7 @@
 
 * [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 * [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
+* [Deep_learning_coursera_Andrew-Ng](https://github.com/hejujie/Deep_learning_coursera_Andrew-Ng) - The deep learning course of Andrew Ng in coursera
 * [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 * [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
@@ -378,7 +383,6 @@
 * [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 * [QConShanghai2016](https://github.com/QConChina/QConShanghai2016) - QCon上海2016幻灯片
 * [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
-* [servo](https://github.com/servo/servo) - The Servo Browser Engine
 * [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 * [translations](https://github.com/oldratlee/translations) - :panda_face: Chinese translations for classic IT resources
 * [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
@@ -441,6 +445,10 @@
 * [LazyREST](https://github.com/easychen/LazyREST) - 可通过Web配置的REST Server，采用GPLV2授权
 * [TeamToy](https://github.com/easychen/TeamToy) - 企业协同办公工具TeamToy2（多人TODO版）官方Git源
 
+## PLpgSQL
+
+* [blog](https://github.com/digoal/blog) - Everything about database,bussiness.
+
 ## Perl
 
 * [programming-openresty](https://github.com/openresty/programming-openresty) - Programming OpenResty Book
@@ -452,7 +460,7 @@
 * [DataScience-And-MachineLearning-Handbook-For-Coders](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders) - 程序猿的数据科学与机器学习实战手册
 * [jd_spider](https://github.com/samrayleung/jd_spider) - 两只蠢萌京东的分布式爬虫.
 * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
-* [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anythings. The Terminator
+* [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 * [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 * [github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 * [easytrader](https://github.com/shidenggui/easytrader) - 提供券银河／华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
@@ -498,10 +506,6 @@
 * [gitube](https://github.com/harryxu/gitube) - 
 * [sparkup](https://github.com/rstacruz/sparkup) - A parser for a condensed HTML format
 
-## Racket
-
-* [Cosette](https://github.com/uwdb/Cosette) - Cosette is an automated SQL solver powered by Coq and Rosette.
-
 ## Ruby
 
 * [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
@@ -523,6 +527,7 @@
 ## Rust
 
 * [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
+* [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Scala
 
@@ -541,6 +546,7 @@
 
 ## Shell
 
+* [minos-static](https://github.com/minos-org/minos-static) - linux static meta-recipes
 * [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
 * [docker-gotgit](https://github.com/jiangxin/docker-gotgit) - Dockerfile for gotgit/gotgit
 * [redox](https://github.com/redox-os/redox) - Redox: A Rust Operating System
@@ -559,7 +565,7 @@
 
 ## Swift
 
-* [Swift-MMP](https://github.com/johnlui/Swift-MMP) - Stream Material-design Music Player written by Swift for iOS. 使用 Swift 语言编写的 Material Design 风格的 iOS 流媒体音乐播放器，简称 MMP。
+* [Swift-MMP](https://github.com/johnlui/Swift-MMP) - 🎧 Stream Material-design Music Player written by Swift for iOS. 使用 Swift 语言编写的 Material Design 风格的 iOS 流媒体音乐播放器，简称 MMP。
 * [LearnSwift](https://github.com/cjiong/LearnSwift) - One hundred days, fifty projects.
 * [Postal](https://github.com/snipsco/Postal) - A swift framework for working with emails
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) - 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn
@@ -577,6 +583,7 @@
 
 ## TypeScript
 
+* [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 * [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 * [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 
@@ -600,6 +607,6 @@
 
 ## Vue
 
-* [lvyou](https://github.com/zhou1178539345/lvyou) - Vue.js 初步进阶案例，适合vue入门者进阶 旅游APP，为喜欢旅游的人专业提供旅游攻略，致力提升旅游体验。路由懒加载，进入页面前登录判断，返回导航判断，RestAPI接口使用，组件封装，Vuex状态封装，keep-alive页面缓存等功能
+* [lvyou](https://github.com/zhou1178539345/lvyou) - Vue.js 初步进阶案例，路由懒加载，进入页面前登录判断，返回导航判断，RestAPI接口使用，组件封装，Vuex状态封装，keep-alive页面缓存等功能
 * [vue-cnode](https://github.com/lzxb/vue-cnode) - 基于vue2 + vue-router + vuet + ES6 + less + flex.css重写vue版cnode社区，使用webpack2打包
 
