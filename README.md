@@ -179,6 +179,7 @@
 
 ## Go 
 
+- [radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
 - [monkey](https://github.com/haifenghuang/monkey) - Interpreter with support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL.
 - [asm-cli](https://github.com/cch123/asm-cli) - Interactive shell of assembly language(X86/X64) based on unicorn and rasm2
 - [goflyway](https://github.com/coyove/goflyway) - Transferring data via remote server
@@ -244,7 +245,7 @@
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [algebrain](https://github.com/dedoussis/algebrain) - Computer Algebra System focusing on symbolic transformations
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-- [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8) - 🎱 30 seconds to collect useful Java8 snippet
+- [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8) - 🎱 30 seconds to collect useful Java 8 snippet.
 - [lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。
 - [luke](https://github.com/DmitryKey/luke) - This is mavenised Luke: Lucene Toolbox Project
 - [diablo](https://github.com/ihaolin/diablo) - 分布式配置管理平台(Distributed Configuration Management Platform)
@@ -602,6 +603,7 @@
 
 ## TypeScript 
 
+- [sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [flux-standard-action](https://github.com/redux-utilities/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
