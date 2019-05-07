@@ -223,6 +223,7 @@
 
 ## HTML 
 
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
 - [clojure_api_cn](https://github.com/huangz1990/clojure_api_cn) - Clojure API 文档的中文翻译版
 - [gitstars](https://github.com/Monine/gitstars) - Github Stars Repositories Manager
@@ -311,7 +312,7 @@
 - [practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [omi](https://github.com/Tencent/omi) - Next Front End Framework - 下一代前端统一框架 - 支持桌面Web、移动H5、小程序、云开发
+- [omi](https://github.com/Tencent/omi) - Next Front End Framework - 下一代前端统一框架 - 支持桌面Web、移动H5、小程序、云开发和任意前端框架
 - [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [redux-little-router](https://github.com/FormidableLabs/redux-little-router) - A tiny router for Redux that lets the URL do the talking.
@@ -326,7 +327,7 @@
 - [lambda-view](https://github.com/Jianru-Lin/lambda-view) - A New Tool for Reading JavaScript Code in 2017
 - [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 - [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
-- [ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
+- [ChakraCore](https://github.com/microsoft/ChakraCore) - ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
 - [FKP-REST](https://github.com/webkixi/FKP-REST) - full stack plus，FKP2更好，看这里 https://github.com/webkixi/fkp2
 - [devdocs-wrapper](https://github.com/yutaodou/devdocs-wrapper) - A simple wrapper for http://devdocs.io with Electron
 - [karait](https://github.com/bcoe/karait) - A ridiculously simple queuing system, with clients in various languages, built on top of MongoDB.
@@ -411,7 +412,7 @@
 - [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 - [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️(imho the best tmux configuration that just works)
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [clojure-learning-notes](https://github.com/tonydeng/clojure-learning-notes) - Clojure学习笔记
 - [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
 - [awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
@@ -430,7 +431,7 @@
 - [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [papers](https://github.com/Charles0429/papers) - 读论文的总结
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
+- [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [python-doc](https://github.com/ictar/python-doc) - translate python documents to Chinese for convenient reference 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
@@ -475,7 +476,7 @@
 ## PHP 
 
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
-- [tcpproxy](https://github.com/jonnywang/tcpproxy) - (不再维护)!!!!!!!  基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
+- [tcpproxy](https://github.com/jonnywang/tcpproxy) - (不再维护,请使用https://github.com/snail007/goproxy)!!!!!!!  基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 - [fis](https://github.com/fex-team/fis) - Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3
 - [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
@@ -497,9 +498,10 @@
 
 ## Python 
 
+- [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
 - [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
-- [jd_spider](https://github.com/samrayleung/jd_spider) - 两只蠢萌京东的分布式爬虫.
+- [jd_spider](https://github.com/ramsayleung/jd_spider) - 两只蠢萌京东的分布式爬虫.
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
