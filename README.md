@@ -6,6 +6,7 @@
 ## Contents
 
   - [Assembly](#assembly)
+  - [AutoHotkey](#autohotkey)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -49,14 +50,20 @@
 
 - [Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
 
+## AutoHotkey 
+
+- [emacs-everywhere](https://github.com/catweazle9/emacs-everywhere) - AutoHotkey script to provide basic Emacs key bindings for Windows
+- [ewow](https://github.com/zk-phi/ewow) - use Emacs command (almost) everywhere
+- [dual](https://github.com/lydell/dual) - Dual is an AutoHotkey script that lets you define dual-role modifier keys easily.
+- [emacs.ahk](https://github.com/usi3/emacs.ahk) - An autohotkey script that allows you to use emacs-like key bindings on Windows environment
+
 ## C 
 
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [pgfincore](https://github.com/klando/pgfincore) - Mirror of http://git.postgresql.org/gitweb/?p=pgfincore.git;a=summary
 - [sparser](https://github.com/stanford-futuredata/sparser) - Sparser: Raw Filtering for Faster Analytics over Raw Data
 - [libaco](https://github.com/hnes/libaco) - A blazing fast and lightweight C asymmetric coroutine library  💎 ⛅🚀⛅🌞
-- [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
-- [acl](https://github.com/acl-dev/acl) - One advanced C/C++ library for Linux, Mac, FreeBSD, Solaris(x86), Windows, Android, IOS
+- [acl](https://github.com/acl-dev/acl) - Server framework and network components written by C/C++ for Linux, Mac, FreeBSD, Solaris(x86), Windows, Android, IOS
 - [LearningMasteringAlgorithms-C](https://github.com/yourtion/LearningMasteringAlgorithms-C) - Mastering Algorithms with C 《算法精解：C语言描述》源码及Xcode工程、Linux工程
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [os](https://github.com/minoca/os) - Minoca operating system
@@ -91,17 +98,19 @@
 - [ultrajson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [gtkqq](https://github.com/kernelhcy/gtkqq) - a qq client based on gtk+ uses webqq protocol
 - [tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
-- [illumos-gate](https://github.com/illumos/illumos-gate) - Community developed and maintained version of the OS/Net consolidation
+- [illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
 - [ketama](https://github.com/RJ/ketama) - C library for consistent hashing, and langauge bindings
 
 ## C# # 
 
+- [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows
 - [OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) - An open source fork of Windows Live Writer
 - [HollingBerries](https://github.com/apauley/HollingBerries) - A fictional scenario implemented in multiple languages in order to compare language paradigms.
 - [superputty](https://github.com/phendryx/superputty) - PLEASE DO NOT USE THIS FORK! IT IS QUITE OUTDATED AND DOES NOT INCLUDE UPDATES MADE BY JIM RADFORD, THE ORIGINAL DEVELOPER. USE:
 
 ## C++ 
 
+- [xkeymacs](https://github.com/fujieda/xkeymacs) - 
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [llvm-tutorial-cn](https://github.com/liancheng/llvm-tutorial-cn) - Simplified Chinese translation for the LLVM Tutorial
 - [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
@@ -126,7 +135,7 @@
 - [EasyPR](https://github.com/liuruoze/EasyPR) - An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations.
 - [kids](https://github.com/zhihu/kids) - Kids Is Data Stream
 - [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
-- [ycmd](https://github.com/Valloric/ycmd) - A code-completion & code-comprehension server
+- [ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
 - [shogun](https://github.com/shogun-toolbox/shogun) - Shōgun
 - [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
@@ -143,7 +152,7 @@
 - [mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
 - [Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
 - [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
-- [wiki](https://github.com/hurley25/wiki) - OS开发收集的资料
+- [wiki](https://github.com/hurley25/wiki) - OS开发编写的资料
 - [teahour.fm](https://github.com/pragmaticly/teahour.fm) - Teahour.fm - Chinese Podcast focusing on programming, entrepreneurship and other geeky topics.
 - [pyempty](https://github.com/onlytiancai/pyempty) - python空项目
 
@@ -202,7 +211,7 @@
 - [yue](https://github.com/lonng/yue) - simple demo for nex(https://github.com/lonnng/nex)
 - [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 - [seq](https://github.com/teh-cmc/seq) - [Go] seq - a gentle overview of the common ways to tackle the problem of distributed sequential IDs.
-- [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -223,7 +232,6 @@
 
 ## HTML 
 
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
 - [clojure_api_cn](https://github.com/huangz1990/clojure_api_cn) - Clojure API 文档的中文翻译版
 - [gitstars](https://github.com/Monine/gitstars) - Github Stars Repositories Manager
@@ -273,7 +281,7 @@
 - [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
-- [pinpoint](https://github.com/naver/pinpoint) - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.
+- [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [CronHub](https://github.com/sharpstill/CronHub) - CronHub is a better crontab, it is a web application which can monitor a large number of machine's crontab, and easy to manage it from web page
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -312,7 +320,7 @@
 - [practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [omi](https://github.com/Tencent/omi) - Next Front End Framework - 下一代前端统一框架 - 支持桌面Web、移动H5、小程序、云开发和任意前端框架
+- [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [redux-little-router](https://github.com/FormidableLabs/redux-little-router) - A tiny router for Redux that lets the URL do the talking.
@@ -365,10 +373,12 @@
 
 ## Jupyter Notebook 
 
-- [Virgilio](https://github.com/clone95/Virgilio) - Your new Mentor for Data Science E-Learning.
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+- [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (1000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(1000+页)和视频链接
 - [datacamp-community-tutorials](https://github.com/datacamp/datacamp-community-tutorials) - Tutorials for DataCamp (www.datacamp.com)
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+- [AIDL-Series](https://github.com/wx-chevalier/AIDL-Series) - :books: Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇 | 机器学习篇 | 深度学习篇 | 自然语言处理篇 | 工具实践 Scikit & Tensoflow & PyTorch 篇 | 行业应用 & 课程笔记
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 
 ## Lean 
@@ -383,6 +393,8 @@
 
 ## Makefile 
 
+- [pcl-cn](https://github.com/binghe/pcl-cn) - Practical Common Lisp (中英文对照版) - for Chinese only
+- [linux-lab](https://github.com/tinyclub/linux-lab) - Docker/Qemu Based Linux Kernel Learning, Development and Testing Environment
 - [terarkdb](https://github.com/Terark/terarkdb) - TerarkDB is a high performance database with the best compression
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [Stock](https://github.com/jasonblog/Stock) - 
@@ -398,6 +410,8 @@
 
 ## Others 
 
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn) - 中文版 Awesome VS Code
 - [algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
@@ -408,7 +422,6 @@
 - [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. PR ☛☛☛
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [AIDL-Series](https://github.com/wx-chevalier/AIDL-Series) - :books: Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，机器学习篇 | Tensoflow 篇
 - [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 - [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
@@ -423,7 +436,7 @@
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [QConShanghai2016](https://github.com/QConChina/QConShanghai2016) - QCon上海2016幻灯片
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
-- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [sublime-text](https://github.com/jikeytang/sublime-text) - sublime-text
@@ -477,7 +490,7 @@
 
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [tcpproxy](https://github.com/jonnywang/tcpproxy) - (不再维护,请使用https://github.com/snail007/goproxy)!!!!!!!  基于swoole实现的TCP数据包转发，可用于转发请求包到指定应用，可实现内网花生壳等类似功能
-- [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
+- [wooyun_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 - [fis](https://github.com/fex-team/fis) - Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3
 - [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 - [LazyREST](https://github.com/easychen/LazyREST) - 可通过Web配置的REST Server，采用GPLV2授权
@@ -500,7 +513,7 @@
 
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
-- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [jd_spider](https://github.com/ramsayleung/jd_spider) - 两只蠢萌京东的分布式爬虫.
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
@@ -527,7 +540,6 @@
 - [werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [RD_Checklist](https://github.com/knownsec/RD_Checklist) - 知道创宇研发技能表
 - [Sublimall](https://github.com/toxinu/Sublimall) - Synchronize your SublimeText configuration
-- [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [Sublime-Text-2-Plugins---Settings](https://github.com/imanoleizaguirre/Sublime-Text-2-Plugins---Settings) - Collection of plugins and settings I use for ST2
 - [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 使用scrapy,redis, mongodb,graphite实现的一个分布式网络爬虫,底层存储mongodb集群,分布式使用redis实现,爬虫状态显示使用graphite实现
@@ -588,6 +600,7 @@
 
 ## Shell 
 
+- [ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [xsos](https://github.com/ryran/xsos) - sosreport examiner - instantly summarize system info from a sosreport or a running system
@@ -606,6 +619,7 @@
 - [caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [keymaps](https://github.com/jondot/keymaps) - 
 - [vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
+- [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [scripts](https://github.com/chunshengster/scripts) - some little scripts like python bash perl etc.
 - [benchmarks](https://github.com/yesodweb/benchmarks) - Collection of various Haskell web benchmarks
@@ -638,6 +652,7 @@
 
 ## Vim script 
 
+- [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
