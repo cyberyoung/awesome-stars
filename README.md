@@ -215,7 +215,7 @@
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed HTAP database compatible with the MySQL protocol
+- [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -267,7 +267,7 @@
 - [wix-embedded-mysql](https://github.com/wix/wix-embedded-mysql) - embedded mysql based on https://github.com/flapdoodle-oss/de.flapdoodle.embed.process
 - [maven-embedded-mysql](https://github.com/zhentao/maven-embedded-mysql) - 
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-- [algebrain](https://github.com/dedoussis/algebrain) - Computer Algebra System focusing on symbolic transformations
+- [algebrain-legacy](https://github.com/dedoussis/algebrain-legacy) - Computer Algebra System focusing on symbolic transformations
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8) - 30 seconds to collect useful Java 8 snippet.
 - [lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。
