@@ -14,6 +14,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
+  - [D](#d)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Game Maker Language](#game-maker-language)
@@ -60,6 +61,7 @@
 
 ## C 
 
+- [acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [pgfincore](https://github.com/klando/pgfincore) - Mirror of http://git.postgresql.org/gitweb/?p=pgfincore.git;a=summary
 - [sparser](https://github.com/stanford-futuredata/sparser) - Sparser: Raw Filtering for Faster Analytics over Raw Data
@@ -69,7 +71,7 @@
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [os](https://github.com/minoca/os) - Minoca operating system
 - [386bsd](https://github.com/386bsd/386bsd) - 386BSD
-- [gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded and Network
+- [gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 - [Dior](https://github.com/luohaha/Dior) - A kind of Lisp
 - [lisp0](https://github.com/bhuztez/lisp0) - a bare minimum remake of origin LISP
 - [c4](https://github.com/rswier/c4) - C in four functions
@@ -95,12 +97,12 @@
 - [hp-kernel-tenderloin](https://github.com/dalingrin/hp-kernel-tenderloin) - HP Touchpad kernel
 - [pbc](https://github.com/cloudwu/pbc) - A protocol buffers library for C
 - [mockeagain](https://github.com/openresty/mockeagain) - Mocking ideally slow network that only allows reading and/or writing one byte at a time
-- [nessDB](https://github.com/BohuTANG/nessDB) - A very fast transactional key-value, embedded database storage engine.
-- [ultrajson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+- [nessDB](https://github.com/BohuTANG/nessDB) - A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
+- [ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [gtkqq](https://github.com/kernelhcy/gtkqq) - a qq client based on gtk+ uses webqq protocol
 - [tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
-- [illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
 - [ketama](https://github.com/RJ/ketama) - C library for consistent hashing, and langauge bindings
+- [illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
 
 ## C# # 
 
@@ -181,6 +183,10 @@
 
 - [GITSP](https://github.com/agrentum/GITSP) - Solutions to Gentle Introduction to Symbolic Computation by David S. Touretzky
 
+## D 
+
+- [onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
+
 ## Emacs Lisp 
 
 - [exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
@@ -212,7 +218,7 @@
 - [yue](https://github.com/lonng/yue) - simple demo for nex(https://github.com/lonnng/nex)
 - [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 - [seq](https://github.com/teh-cmc/seq) - [Go] seq - a gentle overview of the common ways to tackle the problem of distributed sequential IDs.
-- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -234,6 +240,7 @@
 ## HTML 
 
 - [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
+- [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
 - [clojure_api_cn](https://github.com/huangz1990/clojure_api_cn) - Clojure API 文档的中文翻译版
 - [gitstars](https://github.com/Monine/gitstars) - Github Stars Repositories Manager
 - [restc](https://github.com/ElemeFE/restc) - A server-side middleware to visualize REST requests.
@@ -241,6 +248,7 @@
 - [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 - [puer-mock](https://github.com/ufologist/puer-mock) - Puer + Mock.js = A configurable mock server with configurable mock(random) data.
 - [blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
+- [Stock](https://github.com/jasonblog/Stock) - 
 - [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
 - [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [storj.io](https://github.com/StorjOld/storj.io) - Landing page for the project.
@@ -254,7 +262,7 @@
 - [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
 - [blog](https://github.com/hugozhu/blog) - Personal Blog for hugozhu.myalert.info
 - [groundwork](https://github.com/groundworkcss/groundwork) - Say hello to responsive design made easy.
-- [chosen](https://github.com/harvesthq/chosen) - Chosen is a library for making long, unwieldy select boxes more friendly.
+- [chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 
 ## Haskell 
 
@@ -267,6 +275,7 @@
 
 ## Java 
 
+- [cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
 - [rapid-generator](https://github.com/yuchenggroup/rapid-generator) - 半自动化Java代码生成器
 - [ksoap2-android](https://github.com/simpligility/ksoap2-android) - ksoap2-android - SOAP support for Android
 - [wix-embedded-mysql](https://github.com/wix/wix-embedded-mysql) - embedded mysql based on https://github.com/flapdoodle-oss/de.flapdoodle.embed.process
@@ -286,7 +295,7 @@
 - [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
-- [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
+- [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [CronHub](https://github.com/sharpstill/CronHub) - CronHub is a better crontab, it is a web application which can monitor a large number of machines' crontabs, and easy to manage it from web page
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -403,7 +412,6 @@
 - [linux-lab](https://github.com/tinyclub/linux-lab) - Docker/Qemu Based Linux Kernel Learning, Development and Testing Environment
 - [terarkdb](https://github.com/Terark/terarkdb) - TerarkDB is a high performance database with the best compression
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
-- [Stock](https://github.com/jasonblog/Stock) - 
 - [Makefile-template](https://github.com/peddie/Makefile-template) - A generic makefile template
 
 ## Objective-C 
@@ -426,7 +434,7 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [vue-docs-zh-cn](https://github.com/vuejs/vue-docs-zh-cn) - 
 - [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. PR ☛☛☛
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 - [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
@@ -455,7 +463,7 @@
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
 - [docs](https://github.com/huihoo/docs) - 开放文档资源索引
-- [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+- [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [SunLn-F2E-Bookmarks](https://github.com/SunLn/SunLn-F2E-Bookmarks) - SunLn的前端收藏夹，值得分享、学习的前端网站
 - [Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
@@ -520,14 +528,14 @@
 
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [jd_spider](https://github.com/ramsayleung/jd_spider) - 两只蠢萌京东的分布式爬虫.
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
-- [easytrader](https://github.com/shidenggui/easytrader) - 提供银河/国金/华泰客户端/同花顺客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
+- [easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 - [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [rqalpha](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities
@@ -563,9 +571,9 @@
 - [PyPXE](https://github.com/pypxe/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 - [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 - [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
-- [LBForum](https://github.com/vicalloy/LBForum) - LBForum is a forum engine written in Python using Django
-- [gitube](https://github.com/harryxu/gitube) - 
 - [sparkup](https://github.com/rstacruz/sparkup) - A parser for a condensed HTML format
+- [gitube](https://github.com/harryxu/gitube) - 
+- [LBForum](https://github.com/vicalloy/LBForum) - LBForum is a forum engine written in Python using Django
 
 ## Ruby 
 
@@ -582,8 +590,8 @@
 - [lamernews](https://github.com/antirez/lamernews) - Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery
 - [yavaeye](https://github.com/yavaeye/yavaeye) - repo of yavaeye.com
 - [puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
-- [redis-dump](https://github.com/delano/redis-dump) - Backup and restore your Redis data to and from JSON.
 - [murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
+- [redis-dump](https://github.com/delano/redis-dump) - Backup and restore your Redis data to and from JSON.
 
 ## Rust 
 
@@ -598,7 +606,7 @@
 - [each](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to scalaz's monadic expressions
 - [shelldroid](https://github.com/wuhx/shelldroid) - Create Virtual Environment for your Android Apps
 - [Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
-- [kafka-manager](https://github.com/yahoo/kafka-manager) - A tool for managing Apache Kafka.
+- [CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 
 ## Scheme 
 
@@ -611,8 +619,7 @@
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [xsos](https://github.com/ryran/xsos) - sosreport examiner - instantly summarize system info from a sosreport or a running system
-- [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
-- [minos-static](https://github.com/minos-org/minos-static) - linux static meta-recipes
+- [minos-static](https://github.com/minos-org/minos-static) - static binaries for linux
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [docker-gotgit](https://github.com/jiangxin/docker-gotgit) - Dockerfile for gotgit/gotgit
 - [jenv](https://github.com/jenv/jenv) - Manage your Java environment
@@ -628,8 +635,8 @@
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [scripts](https://github.com/chunshengster/scripts) - some little scripts like python bash perl etc.
-- [benchmarks](https://github.com/yesodweb/benchmarks) - Collection of various Haskell web benchmarks
 - [z](https://github.com/rupa/z) - z - jump around
+- [benchmarks](https://github.com/yesodweb/benchmarks) - Collection of various Haskell web benchmarks
 
 ## Swift 
 
@@ -652,7 +659,7 @@
 
 - [sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [react-cosmos](https://github.com/react-cosmos/react-cosmos) - A dev tool for building scalable, high-quality user interfaces
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos) - A dev environment for building scalable, high-quality user interfaces
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 
 ## Vim script 
