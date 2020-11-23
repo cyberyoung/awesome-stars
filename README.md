@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ASL](#asl)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [C](#c)
@@ -17,7 +18,6 @@
   - [D](#d)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
-  - [Game Maker Language](#game-maker-language)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -30,10 +30,10 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
-  - [PLSQL](#plsql)
   - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Python](#python)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -46,6 +46,10 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
+
+## ASL 
+
+- [pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn) - PostgreSQL manual Chinese translation by China PostgreSQL Users Group
 
 ## Assembly 
 
@@ -112,6 +116,8 @@
 
 ## C++ 
 
+- [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
+- [kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
 - [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice) - 搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -167,7 +173,7 @@
 - [scheme.clj](https://github.com/jiacai2050/scheme.clj) - Yet another scheme dialect written in Clojure and ClojureScript
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [clojure-netty](https://github.com/cymen/clojure-netty) - Basic example of using netty with Clojure
-- [aleph](https://github.com/ztellman/aleph) - asynchronous communication for clojure
+- [aleph](https://github.com/aleph-io/aleph) - asynchronous communication for clojure
 - [rosettacode-clojure](https://github.com/purcell/rosettacode-clojure) - My Clojure contributions to Rosettacode
 - [storm-monitor](https://github.com/killme2008/storm-monitor) - A monitor for storm
 
@@ -195,12 +201,9 @@
 - [damocles](https://github.com/lostcolony/damocles) - An Erlang library for generating adversarial network conditions for QAing distributed applications/systems on a single Linux box.
 - [wsdemo](https://github.com/ericmoritz/wsdemo) - A Cowboy Websocket demo
 
-## Game Maker Language 
-
-- [pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn) - PostgreSQL manual Chinese translation by China PostgreSQL Users Group
-
 ## Go 
 
+- [noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
 - [monkey](https://github.com/haifenghuang/monkey) - Interpreter with support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL.
@@ -237,7 +240,7 @@
 - [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
 - [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
 - [clojure_api_cn](https://github.com/huangz1990/clojure_api_cn) - Clojure API 文档的中文翻译版
-- [gitstars](https://github.com/Monine/gitstars) - Github Stars Repositories Manager
+- [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [restc](https://github.com/ElemeFE/restc) - A server-side middleware to visualize REST requests.
 - [home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
@@ -268,7 +271,7 @@
 
 ## Java 
 
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine - https://netflix.github.io/conductor/
 - [Java-Geometry-Expert](https://github.com/yezheng1981/Java-Geometry-Expert) - Java Geometry Expert
@@ -292,9 +295,9 @@
 - [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
-- [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
+- [pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
-- [CronHub](https://github.com/machanic/CronHub) - CronHub is a better crontab, it is a web application which can monitor and control the crontabs of multiple machines from the web page.
+- [CronHub](https://github.com/machanic/CronHub) - CronHub is a better crontab, it is a web application which can schedule, monitor and control the crontabs of multiple machines from the web page.
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android,Run any third-party apk without installation, modification or repackage
 - [Cassandra-Research](https://github.com/codefollower/Cassandra-Research) - Cassandra数据库源代码学习研究(包括代码注释、文档、用于代码分析的测试用例)
@@ -321,7 +324,7 @@
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 - [docker-app-manager](https://github.com/docker-app-manager/docker-app-manager) - Docker App Manager
-- [gh-issues-gantt](https://github.com/neyric/gh-issues-gantt) - Generate Gantt Diagrams from GitHub Issues
+- [gh-issues-gantt](https://github.com/ericabouaf/gh-issues-gantt) - Generate Gantt Diagrams from GitHub Issues
 - [hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
@@ -383,10 +386,10 @@
 
 ## Jupyter Notebook 
 
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [longwin](https://github.com/aRe00t/longwin) - 计算E大的"长赢指数投资计划"收益率
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
-- [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (1500+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(1500+页)和视频链接
+- [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
 - [datacamp-community-tutorials](https://github.com/datacamp/datacamp-community-tutorials) - Tutorials for DataCamp (www.datacamp.com)
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [AI-Series](https://github.com/wx-chevalier/AI-Series) - :books: [.md & .ipynb] Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇 | 机器学习篇 | 深度学习篇 | 自然语言处理篇 | 工具实践 Scikit & Tensoflow & PyTorch 篇 | 行业应用 & 课程笔记
@@ -417,14 +420,16 @@
 - [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter) - Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
 - [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 - [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
-- [FLEX](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
+- [FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
 
 ## Others 
 
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
 - [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
 - [nlp-beginner](https://github.com/FudanNLP/nlp-beginner) - NLP上手教程
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn) - 中文版 Awesome VS Code
 - [algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
@@ -437,7 +442,7 @@
 - [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 - [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [clojure-learning-notes](https://github.com/tonydeng/clojure-learning-notes) - Clojure学习笔记
 - [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
 - [awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
@@ -508,13 +513,9 @@
 - [LazyREST](https://github.com/easychen/LazyREST) - 可通过Web配置的REST Server，采用GPLV2授权
 - [TeamToy](https://github.com/easychen/TeamToy) - 企业协同办公工具TeamToy2（多人TODO版）官方Git源
 
-## PLSQL 
-
-- [MariaDB4j](https://github.com/vorburger/MariaDB4j) - MariaDB Embedded in Java JAR
-
 ## PLpgSQL 
 
-- [blog](https://github.com/digoal/blog) - Everything about database,bussiness.(Most for PostgreSQL).
+- [blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
 
 ## Perl 
 
@@ -525,6 +526,7 @@
 
 - [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) - Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
@@ -565,13 +567,17 @@
 - [moist](https://github.com/farcepest/moist) - Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases
 - [sentry](https://github.com/meredith620/sentry) - monitor machine resources like cpu,disk I/O,mem,ethernet... and display the charts
 - [selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
-- [PyPXE](https://github.com/pypxe/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [PyPXE](https://github.com/pypxe/PyPXE) - Pure Python PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 - [ooredis](https://github.com/huangz1990/ooredis) - 基于 redis-py 之上的一个 Mapper ，让你以更 pythonic 的方式来操作 Redis 。
 - [python-redis-log](https://github.com/jedp/python-redis-log) - A Python logging handler that publishes to redis pub/sub channels
 - [sparkup](https://github.com/rstacruz/sparkup) - A parser for a condensed HTML format
 - [gitube](https://github.com/harryxu/gitube) - 
 - [LBForum](https://github.com/vicalloy/LBForum) - LBForum is a forum engine written in Python using Django
+
+## Roff 
+
+- [MariaDB4j](https://github.com/vorburger/MariaDB4j) - MariaDB Embedded in Java JAR
 
 ## Ruby 
 
@@ -626,7 +632,7 @@
 - [paddle-code-browse](https://github.com/wangkuiyi/paddle-code-browse) - 
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
-- [training-guides](https://github.com/openstack/training-guides) - Community created, open source training guides for OpenStack.
+- [training-guides](https://github.com/openstack/training-guides) - Community created, open source training guides for OpenStack. Mirror of code maintained at opendev.org.
 - [openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks
 - [caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [keymaps](https://github.com/jondot/keymaps) - 
@@ -659,7 +665,7 @@
 
 - [sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [react-cosmos](https://github.com/react-cosmos/react-cosmos) - A dev environment for building scalable, high-quality user interfaces
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 
 ## Vim script 
@@ -668,16 +674,16 @@
 - [dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [vimconf](https://github.com/buaazp/vimconf) - Personal vim conf and plugins for Mac and Linux.
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [janus](https://github.com/carlhuda/janus) - Vim distribution
-- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
+- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
 - [vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
 
 ## VimL 
 
-- [vimconf](https://github.com/buaazp/vimconf) - Personal vim conf and plugins for Mac and Linux.
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [vimmate](https://github.com/huacnlee/vimmate) - Custom vim like Textmate for Ruby on Rails development
 
