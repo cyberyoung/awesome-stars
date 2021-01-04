@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
 - [kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
 - [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice) - 搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
@@ -173,7 +174,7 @@
 - [scheme.clj](https://github.com/jiacai2050/scheme.clj) - Yet another scheme dialect written in Clojure and ClojureScript
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [clojure-netty](https://github.com/cymen/clojure-netty) - Basic example of using netty with Clojure
-- [aleph](https://github.com/aleph-io/aleph) - asynchronous communication for clojure
+- [aleph](https://github.com/clj-commons/aleph) - asynchronous communication for clojure
 - [rosettacode-clojure](https://github.com/purcell/rosettacode-clojure) - My Clojure contributions to Rosettacode
 - [storm-monitor](https://github.com/killme2008/storm-monitor) - A monitor for storm
 
@@ -291,7 +292,7 @@
 - [Leek](https://github.com/wosyingjun/Leek) - A distributed real-time stock picking system base on flume,kafka,jstorm,esper,and mysql
 - [DouBanTop250](https://github.com/kevinhqf/DouBanTop250) - 
 - [PermissionDemo](https://github.com/CankingApp/PermissionDemo) - Android M(6.0)　权限申请研究
-- [Lealone](https://github.com/lealone/Lealone) - 极具创新的面向单机与分布式OLTP场景的异步化NewSQL关系数据库
+- [Lealone](https://github.com/lealone/Lealone) - 极具创新的面向单机与分布式 OLTP 场景的异步化 NewSQL 关系数据库
 - [quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
@@ -331,7 +332,7 @@
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [databank](https://github.com/blockchain-university/databank) - 区块链技术相关的论文、文档
-- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA)
+- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA) by AI Singapore
 - [practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
@@ -348,7 +349,7 @@
 - [lambda-view](https://github.com/Jianru-Lin/lambda-view) - A New Tool for Reading JavaScript Code since 2017
 - [yash](https://github.com/xumingming/yash) - 使用Markdown文件来管理项目计划。
 - [skPlayer](https://github.com/wangpengfei15975/skPlayer) - :musical_note: A simple & beautiful HTML5 music player
-- [ChakraCore](https://github.com/microsoft/ChakraCore) - ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
+- [ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [FKP-REST](https://github.com/webkixi/FKP-REST) - full stack plus，FKP2更好，看这里 https://github.com/webkixi/fkp2
 - [devdocs-wrapper](https://github.com/yutaodou/devdocs-wrapper) - A simple wrapper for http://devdocs.io with Electron
 - [karait](https://github.com/bcoe/karait) - A ridiculously simple queuing system, with clients in various languages, built on top of MongoDB.
@@ -410,7 +411,7 @@
 
 - [pcl-cn](https://github.com/binghe/pcl-cn) - Practical Common Lisp (中英文对照版) - for Chinese only
 - [linux-lab](https://github.com/tinyclub/linux-lab) - Docker/Qemu Based Linux Kernel Learning, Development and Testing Environment
-- [terarkdb](https://github.com/Terark/terarkdb) - TerarkDB is a high performance database with the best compression
+- [trkdb](https://github.com/krareT/trkdb) - 
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [Makefile-template](https://github.com/peddie/Makefile-template) - A generic makefile template
 
@@ -424,6 +425,7 @@
 
 ## Others 
 
+- [PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
 - [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
@@ -442,7 +444,7 @@
 - [ChsLLVMDocs](https://github.com/wuye9036/ChsLLVMDocs) - It is a set of LLVM documents which are translated into Chinese.
 - [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [clojure-learning-notes](https://github.com/tonydeng/clojure-learning-notes) - Clojure学习笔记
 - [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
 - [awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
@@ -471,7 +473,7 @@
 - [Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 - [Cloudboot](https://github.com/idcos/Cloudboot) - Document
-- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [CCUG](https://github.com/codefollower/CCUG) - 中国Cassandra数据库用户组(China Cassandra User Group)
@@ -524,6 +526,7 @@
 
 ## Python 
 
+- [wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) - Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
