@@ -117,7 +117,7 @@
 ## C++ 
 
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
-- [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
+- [duckdb](https://github.com/cwida/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
 - [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice) - 搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
 - [xkeymacs](https://github.com/fujieda/xkeymacs) - 
@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
@@ -332,7 +333,7 @@
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [databank](https://github.com/blockchain-university/databank) - 区块链技术相关的论文、文档
-- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA) by AI Singapore
+- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for robotic process automation (RPA) by AI Singapore
 - [practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
@@ -387,6 +388,7 @@
 
 ## Jupyter Notebook 
 
+- [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [longwin](https://github.com/aRe00t/longwin) - 计算E大的"长赢指数投资计划"收益率
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
