@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [duckdb](https://github.com/cwida/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
@@ -412,7 +413,7 @@
 ## Makefile 
 
 - [pcl-cn](https://github.com/binghe/pcl-cn) - Practical Common Lisp (中英文对照版) - for Chinese only
-- [linux-lab](https://github.com/tinyclub/linux-lab) - Docker/Qemu Based Linux Kernel Learning, Development and Testing Environment
+- [linux-lab](https://github.com/tinyclub/linux-lab) - Docker/Qemu Based Linux Kernel Learning, Development and Testing Environment; New Linux ELF Video Course from this project author: https://www.cctalk.com/m/group/88089283
 - [trkdb](https://github.com/krareT/trkdb) - 
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [Makefile-template](https://github.com/peddie/Makefile-template) - A generic makefile template
@@ -549,7 +550,7 @@
 - [tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
-- [zerodb](https://github.com/zerodb/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.
+- [zerodb](https://github.com/nucypher/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.
 - [airline-passenger-counts](https://github.com/marklit/airline-passenger-counts) - Commercial Airline Passenger Counts between airports (for latest year reported, usually 2013)
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
