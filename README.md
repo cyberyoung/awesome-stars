@@ -175,7 +175,6 @@
 ## Clojure 
 
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
-- [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [dm3/clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API for Clojure
 - [tobyhede/lein-git-deps](https://github.com/tobyhede/lein-git-deps) - git dependencies for leiningen
 - [incanter/incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
@@ -623,6 +622,7 @@
 
 ## Rust 
 
+- [estuary/flow](https://github.com/estuary/flow) - Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow.
 - [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - An elastic and scalable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [iron/iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
