@@ -250,6 +250,7 @@
 
 ## HTML 
 
+- [ckaestne/seai](https://github.com/ckaestne/seai) - CMU Lecture: Machine Learning In Production / AI Engineering / Software Engineering for AI-Enabled Systems (SE4AI)
 - [zelenski/stanford-cpp-library](https://github.com/zelenski/stanford-cpp-library) - Stanford C++ library used in CS106B/X courses
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
@@ -296,7 +297,7 @@
 - [dedoussis/algebrain-legacy](https://github.com/dedoussis/algebrain-legacy) - Computer Algebra System focusing on symbolic transformations
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [biezhi/30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8) - 30 seconds to collect useful Java 8 snippet.
-- [ffay/lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。技术交流QQ群 1067424330
+- [ffay/lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 1067424330
 - [DmitryKey/luke](https://github.com/DmitryKey/luke) - This is mavenised Luke: Lucene Toolbox Project
 - [ihaolin/diablo](https://github.com/ihaolin/diablo) - 分布式配置管理平台(Distributed Configuration Management Platform)
 - [luohaha/jlitespider](https://github.com/luohaha/jlitespider) - A lite distributed Java spider framework :-)
@@ -458,6 +459,7 @@
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
 - [googlefonts/noto-cjk](https://github.com/googlefonts/noto-cjk) - Noto CJK fonts
 - [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [vuejs/vue-docs-zh-cn](https://github.com/vuejs/vue-docs-zh-cn) - 
 - [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -616,14 +618,14 @@
 - [wouterdebie/i2cssh](https://github.com/wouterdebie/i2cssh) - csshX like ssh tool for iTerm2
 - [antirez/lamernews](https://github.com/antirez/lamernews) - Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery
 - [yavaeye/yavaeye](https://github.com/yavaeye/yavaeye) - repo of yavaeye.com
-- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for concurrency
+- [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
 - [lg/murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
 - [delano/redis-dump](https://github.com/delano/redis-dump) - Backup and restore your Redis data to and from JSON.
 
 ## Rust 
 
 - [estuary/flow](https://github.com/estuary/flow) - Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow.
-- [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - An elastic and scalable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [iron/iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 
@@ -648,7 +650,6 @@
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [ryran/xsos](https://github.com/ryran/xsos) - sosreport examiner - instantly summarize system info from a sosreport or a running system
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [minos-org/minos-static](https://github.com/minos-org/minos-static) - static binaries for linux
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [jiangxin/docker-gotgit](https://github.com/jiangxin/docker-gotgit) - Dockerfile for gotgit/gotgit
